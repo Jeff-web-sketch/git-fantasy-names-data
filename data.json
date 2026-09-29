@@ -1,0 +1,190 @@
+{
+  "horse": {
+    "starts": ["Hor", "Equ", "Pegas", "Mustang", "Filly", "Stall", "Mare", "Colt", "Geld", "Pony", "Steed", "Courser", "Racer", "Gallo", "Pranc", "Neigh"],
+    "ends": ["se", "us", "er", "or", "in", "ar", "us", "ion", "ine", "ean", "ster", "ier", "rid", "tro", "dactyl"]
+  },
+  "treant": {
+    "starts": ["Tre", "Arbor", "Silv", "Bark", "Root", "Leaf", "Branch", "Seed", "Bloom", "Bark", "Oak", "Pine", "Cedar", "Elm", "Ash", "Birch", "Willow"],
+    "ends": ["ant", "ent", "us", "on", "ar", "ian", "al", "ine", "an", "us", "oid", "like", "wood", "grove", "forest"]
+  },
+  "artifact": {
+    "starts": ["Art", "Relic", "Talis", "Amule", "Charms", "Crys", "Gem", "Orb", "Staff", "Wand", "Rod", "Scept", "Sigil", "Totem", "Token", "Trink"],
+    "ends": ["fact", "ect", "man", "et", "ment", "tal", "lic", "mic", "ric", "ric", "ric", "ric", "ric", "ric", "ric", "ric", "ic"]
+  },
+  "centaur": {
+    "starts": ["Cent", "Equi", "Hors", "Man", "Human", "Body", "Leg", "Hoof", "Gallop", "Race", "Speed", "Swift", "Fast", "Quick", "Rapid", "Ram", "Arrow", "Bow"],
+    "ends": ["aur", "us", "or", "horse", "equine", "body", "leg", "hoof", "gallop", "race", "speed", "swift", "fast", "quick", "rapid", "ram", "arrow", "bow", "step", "stride"]
+  },
+  "mermaid": {
+    "starts": ["Mer", "Sea", "Aqua", "Mar", "Ocean", "Wave", "Tide", "Foam", "Salts", "Brine", "Coral", "Shell", "Pearl", "Fish", "Fin", "Tail", "Swim", "Dive"],
+    "ends": ["maid", "maiden", "fish", "fin", "tail", "swim", "dive", "deep", "surface", "wave", "tide", "foam", "coral", "shell", "pearl", "aquatic", "marine", "salt", "fresh"]
+  },
+  "elf": {
+    "starts": ["El", "Silv", "Wood", "Forest", "Leaf", "Branch", "Root", "Seed", "Bloom", "Flow", "Spring", "Summer", "Autumn", "Winter", "Snow", "Ice", "Frost"],
+    "ends": ["f", "ven", "wynn", "lor", "th", "rand", "ril", "ion", "ias", "ar", "an", "el", "wyn", "wen", "thel", "dil", "din", "gal", "lad", "rin"]
+  },
+  "dragon": {
+    "starts": ["Drag", "Draco", "Scale", "Fire", "Flame", "Hot", "Burn", "Ash", "Smoke", "Ember", "Spark", "Ignite", "Blaze", "Inferno", "Heat", "Warm", "Scorch"],
+    "ends": ["on", "us", "or", "scale", "fire", "flame", "hot", "burn", "ash", "smoke", "ember", "spark", "ignite", "blaze", "inferno", "heat", "warm", "scorch", "roar", "thunder"]
+  },
+  "twilek": {
+    "starts": ["Twi", "Ryloth", "Head", "Tail", "Leku", "Horns", "Antenna", "Sensor", "Feel", "Touch", "Sense", "Perceive", "Detect", "Notice", "Observe", "Watch"],
+    "ends": ["lek", "ryloth", "head", "tail", "leku", "horn", "antenna", "sensor", "feel", "touch", "sense", "perceive", "detect", "notice", "observe", "watch", "monitor", "scan", "check", "inspect"]
+  },
+  "togruta": {
+    "starts": ["Tog", "Shili", "Montral", "Head", "Horns", "Marking", "Pattern", "Design", "Art", "Paint", "Draw", "Sketch", "Illustrate", "Render", "Depict", "Show"],
+    "ends": ["uta", "shili", "montral", "head", "horn", "marking", "pattern", "design", "art", "paint", "draw", "sketch", "illustrate", "render", "depict", "show", "display", "present", "exhibit", "demonstrate"]
+  },
+  "faun": {
+    "starts": ["Fau", "Goat", "Horn", "Field", "Pasture", "Grass", "Herb", "Plant", "Vegetation", "Nature", "Natural", "Organic", "Fresh", "Clean", "Pure", "Untouched"],
+    "ends": ["n", "goat", "horn", "field", "pasture", "grass", "herb", "plant", "vegetation", "nature", "natural", "organic", "fresh", "clean", "pure", "untouched", "wild", "uncivilized", "forest", "grove"]
+  },
+  "conutaur": {
+    "starts": ["Con", "Uni", "Horn", "Spiral", "Twisted", "Mixed", "Hybrid", "Cross", "Combined", "Union", "Merge", "Join", "Link", "Connect", "Attach", "Bond"],
+    "ends": ["taur", "uni", "horn", "spiral", "twisted", "mixed", "hybrid", "cross", "combined", "union", "merge", "join", "link", "connect", "attach", "bond", "bonded", "united", "one", "single"]
+  },
+  "orc": {
+    "starts": ["Or", "Grish", "Grom", "Thrak", "Zug", "Gruk", "Mok", "Shag", "Gor", "Urg", "Skrag", "Drog", "Krog", "Brog", "Frag", "Crush", "Smash"],
+    "ends": ["c", "ak", "uk", "og", "ug", "ok", "ag", "az", "oz", "iz", "rak", "ruk", "rog", "reg", "rag", "grish", "thrak", "zug", "grom", "gork"]
+  },
+  "dwarf": {
+    "starts": ["Dur", "Thor", "Bal", "Mor", "Gim", "Balin", "Dwal", "Oin", "Gloin", "Fili", "Kili", "Bofu", "Bomb", "Ori", "Nori", "Dori", "Iron"],
+    "ends": ["in", "ar", "or", "ir", "ur", "yr", "an", "en", "on", "gold", "silver", "bronze", "iron", "steel", "hammer", "forge", "anvil", "mine", "rock"]
+  },
+  "werewolf": {
+    "starts": ["Were", "Wolf", "Lunar", "Moon", "Full", "Fur", "Pack", "Alpha", "Beta", "Gamma", "Delta", "Howl", "Growl", "Bite", "Teeth", "Claw"],
+    "ends": ["wolf", "lunar", "moon", "fur", "pack", "alpha", "howl", "growl", "bite", "teeth", "claw", "sharp", "wild", "beast", "hunter", "kill", "hunt", "prey", "fang", "claw"]
+  },
+  "goblin": {
+    "starts": [" Gob", "Grib", "Snag", "Nix", "Kip", "Wick", "Fizz", "Bizz", "Zib", "Zog", "Snip", "Snap", "Clip", "Flip", "Grip", "Tripp", "Whip"],
+    "ends": ["lin", "kin", "tin", "bin", "pin", "sin", "win", "zip", "zap", "zop", "zep", "gib", "gab", "rob", "cob", "bob", "nob", "dob"]
+  },
+  "android": {
+    "starts": ["Andr", "Robo", "Cyb", "Mech", "Auto", "Droid", "Unit", "Model", "Series", "Type", "Class", "Mark", "Version", "Proto", "Beta", "Alpha"],
+    "ends": ["oid", "on", "ix", "ax", "ex", "yx", "01", "02", "03", "MK1", "MK2", "MK3", "PRO", "MAX", "ULTRA", "PLUS"]
+  },
+  "cyborg": {
+    "starts": ["Cyb", "Mech", "Bio", "Syn", "Tech", "Elec", "Chip", "Wire", "Gear", "Steel", "Iron", "Metal", "Plate", "Shell", "Armor", "Skin"],
+    "ends": ["org", "ic", "on", "ex", "ix", "tek", "tech", "net", "tron", "bot", "ron", "ran", "zen", "max", "rix", "vox"]
+  },
+  "phoenix": {
+    "starts": ["Phoen", "Fire", "Flame", "Burn", "Ash", "Reborn", "Resurrect", "Rise", "Ascend", "Sun", "Solar", "Day", "Light", "Bright", "Shine"],
+    "ends": ["ix", "fire", "flame", "burn", "ash", "reborn", "resurrect", "rise", "ascend", "sun", "solar", "day", "light", "bright", "shine", "glow", "radiant", "blaze", "ember", "spark"]
+  },
+  "kraken": {
+    "starts": ["Kra", "Krak", "Ten", "Tenta", "Tentacle", "Arm", "Leg", "Limb", "Sea", "Ocean", "Deep", "Abyss", "Monster", "Beast", "Horror", "Fear"],
+    "ends": ["ken", "tentacle", "arm", "leg", "limb", "sea", "ocean", "deep", "abyss", "monster", "beast", "horror", "fear", "terror", "scare", "dread", "alarm", "wrath", "rage", "fury"]
+  },
+  "golem": {
+    "starts": ["Gol", "Clay", "Mud", "Earth", "Dirt", "Soil", "Ground", "Land", "Terrain", "Geol", "Lith", "Petra", "Stone", "Rock", "Boulder"],
+    "ends": ["em", "clay", "mud", "earth", "dirt", "soil", "ground", "land", "terrain", "stone", "rock", "boulder", "quarry", "mine", "ore", "metal", "mineral", "construct", "form", "shape"]
+  },
+  "hydra": {
+    "starts": ["Hyd", "Water", "Hydro", "Multi", "Many", "Several", "Multiple", "Count", "Number", "Figures", "Digits", "Numerals", "Counts", "Sum", "Total"],
+    "ends": ["dra", "water", "hydro", "multi", "many", "several", "multiple", "count", "number", "figures", "digits", "sum", "total", "aggregate", "whole", "entire", "complete", "heads", "coils", "serpents"]
+  },
+  "griffin": {
+    "starts": ["Gri", "Lion", "Eagle", "Bird", "Beast", "Animal", "King", "Queen", "Prince", "Princess", "Royal", "Noble", "Nobility", "Aristocrat", "Lord"],
+    "ends": ["fin", "lion", "eagle", "bird", "beast", "animal", "king", "queen", "prince", "royal", "noble", "lord", "lady", "master", "mistress", "ruler", "sovereign", "majesty", "crown", "throne"]
+  },
+  "sphinx": {
+    "starts": ["Sph", "Question", "Answer", "Riddle", "Mystery", "Secret", "Hidden", "Cryptic", "Enigma", "Puzzle", "Brain", "Mind", "Think", "Reason"],
+    "ends": ["inx", "question", "answer", "riddle", "mystery", "secret", "hidden", "cryptic", "enigma", "puzzle", "brain", "mind", "think", "reason", "logic", "intelligence", "smart", "genius", "wise", "learned"]
+  },
+  "banshee": {
+    "starts": ["Ban", "Wail", "Scream", "Shriek", "Yell", "Cry", "Weep", "Sorrow", "Sadness", "Grief", "Mourning", "Funeral", "Death", "Dying", "End"],
+    "ends": ["hee", "wail", "scream", "shriek", "yell", "cry", "weep", "sorrow", "sadness", "grief", "mourning", "funeral", "death", "dying", "end", "final", "last", "ultimate", "terminal", "close"]
+  },
+  "chimera": {
+    "starts": ["Chi", "Mer", "Ame", "Lio", "Goat", "Serp", "Mix", "Hyb", "Mut", "Fuse", "Blend", "Amal", "Syn", "Cron", "Graft", "Splice", "Patch"],
+    "ends": ["ra", "os", "us", "is", "as", "ax", "on", "en", "lion", "goat", "serpent", "dragon", "beast", "monster", "hybrid", "mutant", "fusion", "blend", "amalgam", "synthesis"]
+  },
+  "basilisk": {
+    "starts": ["Basil", "Rept", "Snake", "Venom", "Petrify", "Gaze", "Turn", "Stone", "Look", "Eye", "Stare", "Glare", "Beam", "Ray", "Strike"],
+    "ends": ["isk", "snake", "venom", "petrify", "gaze", "turn", "stone", "look", "eye", "stare", "glare", "beam", "ray", "strike", "freeze", "lock", "still", "rigid", "solid"]
+  },
+  "wizard": {
+    "starts": ["Arc", "Myst", "Grim", "Eld", "Thau", "Mer", "Alch", "Run", "Spell", "Rune", "Sage", "Wise", "Ether", "Astral", "Celest"],
+    "ends": ["on", "as", "ius", "ar", "en", "or", "ix", "yx", "thal", "mir", "dor", "wynn", "mere", "gard", "hold", "spire", "tower", "lore", "craft", "wise"]
+  },
+  "knight": {
+    "starts": ["Ser", "Sir", "Val", "Pal", "Gar", "Rol", "Ric", "Hug", "Wil", "Rud", "Ber", "The", "Alb", "Char", "God", "Win"],
+    "ends": ["ian", "ard", "wynn", "ric", "bert", "mund", "ward", "ston", "grave", "heart", "shield", "sword", "lion", "steel", "iron", "gold", "crest", "blade", "light", "dawn"]
+  },
+  "pirate": {
+    "starts": ["Cap", "Black", "Red", "Sea", "Treasure", "Skel", "Bone", "Jolly", "Iron", "Dead", "Storm", "Wave", "Anchor", "Cutlass", "Cannon"],
+    "ends": ["beard", "hook", "leg", "eye", "sail", "ship", "sea", "storm", "tide", "wave", "foam", "anchor", "compass", "treasure", "gold", "doubloon", "plunder", "loot", "booty", "swash"]
+  },
+  "demon": {
+    "starts": ["Bel", "Azr", "Mal", "Lil", "Abad", "Asm", "Beel", "Lucif", "Sama", "Mam", "Levi", "Satan", "Dant", "Pand", "Hec"],
+    "ends": ["or", "os", "us", "on", "ax", "ith", "yn", "ath", "gar", "dar", "zak", "thrak", "zax", "nox", "rax", "volk", "mort", "hell", "flame", "fury"]
+  },
+  "angel": {
+    "starts": ["Ser", "Cher", "Uri", "Gab", "Mic", "Raf", "Azr", "Met", "Zeph", "Ariel", "Luc", "Sera", "Heav", "Div", "Holy"],
+    "ends": ["ael", "iel", "ach", "phiel", "or", "el", "on", "ias", "rah", "wyn", "lum", "sol", "astra", "diva", "sanct", "pure", "light", "glory", "heaven", "grace"]
+  },
+  "zombie": {
+    "starts": ["Rot", "Decay", "Corpse", "Undead", "Grave", "Bloat", "Fung", "Mold", "Putr", "Carrion", "Bone", "Skull", "Rotten", "Fester"],
+    "ends": ["rot", "mold", "bloat", "undead", "corpse", "bone", "skull", "grave", "decay", "fester", "gore", "blood", "waste", "ruin", "ash", "dust", "ember", "fade", "lost"]
+  },
+  "skeleton": {
+    "starts": ["Bony", "Crane", "Rib", "Skull", "Femur", "Spine", "Patella", "Vertebra", "Cranium", "Jaw", "Clav", "Sternum", "Phalanx"],
+    "ends": ["on", "us", "or", "ax", "ith", "ium", "are", "ette", "icle", "ular", "ate", "ose", "tic", "oid", "like", "bound", "breaker", "shatter", "crunch"]
+  },
+  "ghost": {
+    "starts": ["Spectr", "Wisp", "Phan", "Appar", "Haunt", "Spirit", "Shade", "Echo", "Remnant", "Phantom", "Willow", "Whisper", "Murky"],
+    "ends": ["ral", "al", "ish", "en", "some", "less", "bound", "free", "lost", "found", "gone", "here", "there", "nowhere", "always", "never", "silent", "whisper", "echo", "fade"]
+  },
+  "titan": {
+    "starts": ["Titan", "Coloss", "Levi", "Giant", "Primordial", "Ancient", "Old", "Prime", "Alpha", "Omega", "First", "Last", "Elder"],
+    "ends": ["as", "on", "us", "or", "ath", "thos", "ios", "eos", "eus", "max", "rex", "giant", "coloss", "levi", "prim", "arch", "prime", "alpha", "omega"]
+  },
+  "cyclops": {
+    "starts": ["One", "Sin", "Single", "Mono", "Uni", "Circular", "Round", "Eye", "Vision", "Peep", "Look", "See", "Watch"],
+    "ends": ["ops", "eye", "vision", "sight", "watch", "gaze", "stare", "blink", "glint", "spark", "flare", "burn", "glow", "shine", "bright", "radiant", "blaze"]
+  },
+  "minotaur": {
+    "starts": ["Minot", "Bull", "Tor", "Oxen", "Horn", "Taur", "Cow", "Steer", "Calf", "Bovine", "Lab", "Labyrinth", "Maze", "Stone"],
+    "ends": ["aur", "us", "os", "ox", "bull", "horn", "steer", "maze", "stone", "rock", "cave", "under", "deep", "dark", "shadow", "void", "labyrinth", "corridor", "passage"]
+  },
+  "harpy": {
+    "starts": ["Har", "Wind", "Sky", "Air", "Wing", "Feather", "Bird", "Soar", "Fly", "Avian", "Plume", "Flight", "Gale"],
+    "ends": ["py", "ia", "is", "on", "wing", "feather", "flight", "soar", "fly", "wind", "sky", "air", "gale", "storm", "cloud", "tempest", "gust", "blast", "squall", "airborne"]
+  },
+  "siren": {
+    "starts": ["Sir", "Sea", "Ocean", "Wave", "Tide", "Aqua", "Mar", "Neptune", "Poseidon", "Song", "Melody", "Music", "Charm"],
+    "ends": ["en", "ia", "is", "a", "ne", "song", "melody", "music", "charm", "allure", "spell", "bind", "lure", "call", "voice", "sound", "tone", "note", "chord", "harmony"]
+  },
+  "leviathan": {
+    "starts": ["Levi", "Ocean", "Sea", "Deep", "Abyss", "Abyssal", "Trench", "Tidal", "Current", "Flow", "River", "Stream"],
+    "ends": ["athan", "ian", "deep", "abyss", "trench", "tidal", "flow", "current", "stream", "cascade", "falls", "water", "fluid", "liquid", "ocean", "sea", "marine", "aquatic", "pelagic"]
+  },
+  "wyvern": {
+    "starts": ["Wyr", "Drag", "Scale", "Serp", "Snake", "Venom", "Poison", "Coil", "Slither", "Fang", "Tooth", "Claw"],
+    "ends": ["ven", "scale", "serp", "snake", "venom", "coil", "slither", "fang", "claw", "wing", "fire", "breath", "burn", "flame", "ember", "spark", "dragon", "wyrm", "drake"]
+  },
+  "troll": {
+    "starts": ["Tro", "Large", "Big", "Huge", "Massive", "Mountain", "Rock", "Stone", "Boulder", "Granite", "Basalt", "Quartz"],
+    "ends": ["oll", "og", "ogre", "giant", "mountain", "rock", "stone", "boulder", "granite", "basalt", "hard", "strong", "tough", "mighty", "power", "force", "crush", "smash", "break", "boulder"]
+  },
+  "ogre": {
+    "starts": ["Og", "Brute", "Simple", "Raw", "Primitive", "Cav", "Cavern", "Cave", "Den", "Laire", "Burrow", "Hole", "Pit"],
+    "ends": ["re", "brute", "cavern", "cave", "den", "lair", "burrow", "hole", "pit", "tunnel", "underground", "sub", "below", "deep", "bottom", "crag", "ridge", "cliff", "gorge"]
+  },
+  "faerie": {
+    "starts": ["Fae", "Fairy", "Pix", "Sprig", "Mystic", "Magic", "Spell", "Curse", "Charm", "Wish", "Dream", "Sleep"],
+    "ends": ["rie", "ie", "y", "pix", "sprite", "magical", "spell", "curse", "charm", "wish", "dream", "sleep", "vision", "illusion", "fantasy", "wonder", "marvel", "miracle", "enchant", "mystery"]
+  },
+  "dryad": {
+    "starts": ["Dry", "Tree", "Oak", "Elm", "Birch", "Pine", "Fir", "Cedar", "Maple", "Willow", "Aspen", "Poplar", "Ash"],
+    "ends": ["ad", "tree", "wood", "forest", "leaf", "branch", "root", "seed", "bloom", "flower", "blossom", "bud", "petal", "stem", "stalk", "vine", "twine", "timber", "foliage"]
+  },
+  "gorgon": {
+    "starts": ["Gor", "Stone", "Gaze", "Turn", "Serpent", "Snake", "Hair", "Head", "Face", "Look", "See", "Eye"],
+    "ends": ["gon", "stone", "gaze", "serpent", "snake", "hair", "head", "face", "look", "see", "eye", "stare", "beam", "ray", "flash", "strike", "petrify", "freeze", "still", "lock"]
+  },
+  "unicorn": {
+    "starts": ["Unic", "Horn", "Spiral", "Twist", "Magic", "Pure", "White", "Prism", "Rainbow", "Mystic", "Enchanted"],
+    "ends": ["orn", "horn", "spiral", "twist", "magic", "pure", "white", "prism", "rainbow", "mystic", "crystal", "glass", "silver", "diamond", "gem", "stone", "rock", "mineral", "gleam", "shine"]
+  }
+}
