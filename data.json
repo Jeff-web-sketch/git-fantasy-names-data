@@ -1,5 +1,4 @@
-{
-  "horse": {
+{"horse": {
     "starts": ["Hor", "Equ", "Pegas", "Mustang", "Filly", "Stall", "Mare", "Colt", "Geld", "Pony", "Steed", "Courser", "Racer", "Gallo", "Pranc", "Neigh"],
     "ends": ["se", "us", "er", "or", "in", "ar", "us", "ion", "ine", "ean", "ster", "ier", "rid", "tro", "dactyl"]
   },
