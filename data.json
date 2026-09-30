@@ -18,7 +18,24 @@
       "Aven",
       "Bran",
       "Kara",
-      "Dara"
+      "Dara",
+      "Bryn",
+      "Cale",
+      "Dain",
+      "Evan",
+      "Fara",
+      "Galen",
+      "Hale",
+      "Jora",
+      "Kellan",
+      "Lysa",
+      "Marek",
+      "Nora",
+      "Orin",
+      "Rhea",
+      "Tarin",
+      "Vela",
+      "Wren"
     ],
     "ends": [
       "den",
@@ -38,7 +55,19 @@
       "an",
       "elle",
       "ryn",
-      "us"
+      "us",
+      "a",
+      "ia",
+      "ea",
+      "in",
+      "on",
+      "er",
+      "el",
+      "il",
+      "ir",
+      "yn",
+      "yra",
+      "ina"
     ]
   },
   "treant": {
@@ -60,7 +89,21 @@
       "Grove",
       "Vire",
       "Lorien",
-      "Thal"
+      "Thal",
+      "Bram",
+      "Glen",
+      "Haw",
+      "Ivy",
+      "Juniper",
+      "Laurel",
+      "Maple",
+      "Pine",
+      "Rowan",
+      "Vine",
+      "Yew",
+      "Crown",
+      "Druid",
+      "Verd"
     ],
     "ends": [
       "ant",
@@ -80,7 +123,17 @@
       "iel",
       "ora",
       "eth",
-      "orn"
+      "orn",
+      "bloom",
+      "branch",
+      "briar",
+      "canopy",
+      "fern",
+      "moss",
+      "seed",
+      "shade",
+      "vine",
+      "ara"
     ]
   },
   "artifact": {
@@ -100,7 +153,25 @@
       "Eli",
       "Vara",
       "Zera",
-      "Lumi"
+      "Lumi",
+      "Aeg",
+      "Arcan",
+      "Celes",
+      "Ebon",
+      "Eld",
+      "Ethere",
+      "Lumin",
+      "Mana",
+      "Myst",
+      "Nex",
+      "Obsi",
+      "Prism",
+      "Run",
+      "Saph",
+      "Star",
+      "Void",
+      "Aural",
+      "Vesper"
     ],
     "ends": [
       "fact",
@@ -118,7 +189,16 @@
       "yx",
       "ael",
       "une",
-      "aris"
+      "aris",
+      "a",
+      "ae",
+      "os",
+      "um",
+      "ite",
+      "ess",
+      "ence",
+      "ance",
+      "ion"
     ]
   },
   "centaur": {
@@ -138,7 +218,24 @@
       "Thar",
       "Corin",
       "Maren",
-      "Lyr"
+      "Lyr",
+      "Aren",
+      "Briar",
+      "Caden",
+      "Darian",
+      "Eland",
+      "Faryn",
+      "Galen",
+      "Haron",
+      "Ilan",
+      "Joren",
+      "Kalen",
+      "Lorian",
+      "Naren",
+      "Orin",
+      "Peren",
+      "Ralen",
+      "Soren"
     ],
     "ends": [
       "aur",
@@ -156,7 +253,15 @@
       "ora",
       "on",
       "eus",
-      "el"
+      "el",
+      "a",
+      "ea",
+      "in",
+      "an",
+      "er",
+      "il",
+      "yn",
+      "ien"
     ]
   },
   "mermaid": {
@@ -175,7 +280,24 @@
       "Cora",
       "Mira",
       "Rielle",
-      "Sere"
+      "Sere",
+      "Ari",
+      "Ariel",
+      "Caly",
+      "Del",
+      "Ely",
+      "Fina",
+      "Iria",
+      "Juna",
+      "Lira",
+      "Maren",
+      "Neris",
+      "Oriana",
+      "Raina",
+      "Talia",
+      "Veya",
+      "Waver",
+      "Yara"
     ],
     "ends": [
       "maid",
@@ -192,7 +314,15 @@
       "ia",
       "eth",
       "essa",
-      "mar"
+      "mar",
+      "eria",
+      "ina",
+      "ira",
+      "issa",
+      "ael",
+      "ena",
+      "ea",
+      "aya"
     ]
   },
   "elf": {
@@ -212,7 +342,22 @@
       "Vael",
       "Cael",
       "Eli",
-      "Ryn"
+      "Ryn",
+      "Aerin",
+      "Alar",
+      "Eland",
+      "Elion",
+      "Faelar",
+      "Ithil",
+      "Leth",
+      "Mael",
+      "Nim",
+      "Rhael",
+      "Sael",
+      "Ther",
+      "Yav",
+      "Lira",
+      "Sylas"
     ],
     "ends": [
       "wyn",
@@ -231,7 +376,15 @@
       "thel",
       "din",
       "gal",
-      "rin"
+      "rin",
+      "ael",
+      "ien",
+      "ith",
+      "las",
+      "dor",
+      "mir",
+      "ara",
+      "ora"
     ]
   },
   "dragon": {
@@ -251,7 +404,22 @@
       "Zyra",
       "Kael",
       "Sol",
-      "Fyr"
+      "Fyr",
+      "Aeth",
+      "Brak",
+      "Draev",
+      "Glaur",
+      "Kyr",
+      "Mael",
+      "Nyr",
+      "Rhaz",
+      "Skar",
+      "Tyr",
+      "Vaal",
+      "Xar",
+      "Zor",
+      "Ignar",
+      "Pyrel"
     ],
     "ends": [
       "on",
@@ -269,7 +437,15 @@
       "orn",
       "eth",
       "eus",
-      "yr"
+      "yr",
+      "a",
+      "ia",
+      "ea",
+      "an",
+      "oth",
+      "drak",
+      "wyr",
+      "ius"
     ]
   },
   "twilek": {
@@ -289,7 +465,24 @@
       "Lira",
       "Zela",
       "Kyra",
-      "Ari"
+      "Ari",
+      "Ala",
+      "Alya",
+      "Cira",
+      "Dela",
+      "Elya",
+      "Fira",
+      "Jela",
+      "Kela",
+      "Lana",
+      "Mira",
+      "Neya",
+      "Sira",
+      "Teya",
+      "Vira",
+      "Wela",
+      "Yela",
+      "Zira"
     ],
     "ends": [
       "lek",
@@ -307,7 +500,18 @@
       "in",
       "el",
       "ir",
-      "yn"
+      "yn",
+      "a",
+      "ah",
+      "ai",
+      "ia",
+      "iya",
+      "aya",
+      "ira",
+      "irae",
+      "elle",
+      "ena",
+      "eya"
     ]
   },
   "togruta": {
@@ -326,7 +530,22 @@
       "Savi",
       "Ari",
       "Zari",
-      "Mira"
+      "Mira",
+      "Asha",
+      "Avari",
+      "Chira",
+      "Daya",
+      "Esha",
+      "Fara",
+      "Jala",
+      "Kashi",
+      "Lira",
+      "Meya",
+      "Raya",
+      "Teya",
+      "Vara",
+      "Yani",
+      "Zaya"
     ],
     "ends": [
       "uta",
@@ -343,7 +562,17 @@
       "ani",
       "ira",
       "eth",
-      "ya"
+      "ya",
+      "a",
+      "ah",
+      "ai",
+      "ia",
+      "ara",
+      "aya",
+      "ina",
+      "eya",
+      "eli",
+      "ri"
     ]
   },
   "faun": {
@@ -362,7 +591,23 @@
       "Aster",
       "Luma",
       "Vera",
-      "Eira"
+      "Eira",
+      "Clover",
+      "Dew",
+      "Elow",
+      "Fenn",
+      "Glen",
+      "Hazel",
+      "Iris",
+      "Jasper",
+      "Lark",
+      "Meadow",
+      "Perrin",
+      "Rowan",
+      "Sorrel",
+      "Thyme",
+      "Vale",
+      "Wilder"
     ],
     "ends": [
       "n",
@@ -379,7 +624,12 @@
       "elle",
       "rin",
       "us",
-      "ane"
+      "ane",
+      "a",
+      "in",
+      "an",
+      "el",
+      "ira"
     ]
   },
   "conutaur": {
@@ -397,7 +647,23 @@
       "Lyra",
       "Kora",
       "Mira",
-      "Vala"
+      "Vala",
+      "Auric",
+      "Corin",
+      "Elyr",
+      "Equa",
+      "Horn",
+      "Lun",
+      "Myra",
+      "Naur",
+      "Ryn",
+      "Taurin",
+      "Unara",
+      "Veyra",
+      "Zorin",
+      "Auren",
+      "Coryn",
+      "Eun"
     ],
     "ends": [
       "taur",
@@ -413,7 +679,14 @@
       "ryn",
       "iel",
       "us",
-      "eth"
+      "eth",
+      "a",
+      "ia",
+      "aur",
+      "yn",
+      "el",
+      "ine",
+      "ius"
     ]
   },
   "orc": {
@@ -433,7 +706,25 @@
       "Bruk",
       "Rok",
       "Varg",
-      "Grash"
+      "Grash",
+      "Brag",
+      "Brak",
+      "Drak",
+      "Garn",
+      "Gash",
+      "Grok",
+      "Hruk",
+      "Karg",
+      "Morg",
+      "Narg",
+      "Ruk",
+      "Skor",
+      "Thok",
+      "Vrak",
+      "Zarg",
+      "Durg",
+      "Krul",
+      "Maug"
     ],
     "ends": [
       "ak",
@@ -451,7 +742,13 @@
       "rag",
       "ash",
       "gar",
-      "gor"
+      "gor",
+      "ar",
+      "or",
+      "gash",
+      "mog",
+      "thok",
+      "zog"
     ]
   },
   "dwarf": {
@@ -471,7 +768,23 @@
       "Fili",
       "Bor",
       "Dun",
-      "Iron"
+      "Iron",
+      "Borin",
+      "Brun",
+      "Dain",
+      "Dorin",
+      "Durin",
+      "Farin",
+      "Garr",
+      "Hald",
+      "Korin",
+      "Nalin",
+      "Oskar",
+      "Rurik",
+      "Thrain",
+      "Varr",
+      "Keld",
+      "Morin"
     ],
     "ends": [
       "in",
@@ -489,7 +802,12 @@
       "din",
       "mir",
       "ald",
-      "um"
+      "um",
+      "im",
+      "ik",
+      "dor",
+      "mund",
+      "stone"
     ]
   },
   "werewolf": {
@@ -509,7 +827,24 @@
       "Ryn",
       "Fang",
       "Dusk",
-      "Nox"
+      "Nox",
+      "Arven",
+      "Darr",
+      "Fenrir",
+      "Garran",
+      "Hakon",
+      "Korin",
+      "Lyk",
+      "Marek",
+      "Norr",
+      "Ragnar",
+      "Skoll",
+      "Ulvar",
+      "Varek",
+      "Warg",
+      "Yorin",
+      "Zarek",
+      "Howlan"
     ],
     "ends": [
       "wolf",
@@ -527,7 +862,16 @@
       "rik",
       "ael",
       "us",
-      "ryn"
+      "ryn",
+      "a",
+      "in",
+      "on",
+      "an",
+      "ik",
+      "ir",
+      "var",
+      "moon",
+      "night"
     ]
   },
   "goblin": {
@@ -548,7 +892,25 @@
       "Flip",
       "Grip",
       "Tripp",
-      "Whip"
+      "Whip",
+      "Bik",
+      "Bok",
+      "Brik",
+      "Bub",
+      "Dib",
+      "Diz",
+      "Gik",
+      "Giz",
+      "Kob",
+      "Krik",
+      "Mib",
+      "Nib",
+      "Pip",
+      "Rik",
+      "Tiz",
+      "Vik",
+      "Zik",
+      "Zup"
     ],
     "ends": [
       "lin",
@@ -567,7 +929,24 @@
       "rob",
       "cob",
       "nob",
-      "dob"
+      "dob",
+      "bit",
+      "bik",
+      "bok",
+      "diz",
+      "gik",
+      "gob",
+      "kik",
+      "lok",
+      "mik",
+      "nik",
+      "pik",
+      "rik",
+      "tik",
+      "vik",
+      "zib",
+      "zog",
+      "zup"
     ]
   },
   "android": {
@@ -586,7 +965,25 @@
       "Syn",
       "Axiom",
       "Omni",
-      "Arti"
+      "Arti",
+      "A-",
+      "AX",
+      "CY",
+      "DYN",
+      "EVA",
+      "GEN",
+      "HMX",
+      "ION",
+      "NEX",
+      "OMN",
+      "QX",
+      "RX",
+      "SYN",
+      "TX",
+      "VX",
+      "XEN",
+      "ZET",
+      "AUR"
     ],
     "ends": [
       "oid",
@@ -604,7 +1001,24 @@
       "PRO",
       "MAX",
       "ULTRA",
-      "PLUS"
+      "PLUS",
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "X",
+      "IX",
+      "ON",
+      "OS",
+      "EX",
+      "NX",
+      "RX",
+      "MK4",
+      "MK5",
+      "V2",
+      "V3",
+      "CORE"
     ]
   },
   "cyborg": {
@@ -624,7 +1038,22 @@
       "Nova",
       "Hex",
       "Vex",
-      "Axon"
+      "Axon",
+      "Axiom",
+      "Chrome",
+      "Core",
+      "Cyber",
+      "Dyna",
+      "Exo",
+      "Fusion",
+      "Ion",
+      "Nano",
+      "Neuro",
+      "Omni",
+      "Proto",
+      "Tech",
+      "Volt",
+      "Xeno"
     ],
     "ends": [
       "org",
@@ -642,7 +1071,15 @@
       "vox",
       "ael",
       "ium",
-      "ara"
+      "ara",
+      "net",
+      "core",
+      "byte",
+      "link",
+      "mesh",
+      "prime",
+      "or",
+      "is"
     ]
   },
   "phoenix": {
@@ -661,7 +1098,18 @@
       "Flare",
       "Astra",
       "Dawn",
-      "Lum"
+      "Lum",
+      "Aurora",
+      "Blaz",
+      "Flar",
+      "Helio",
+      "Luma",
+      "Solara",
+      "Solaris",
+      "Sola",
+      "Vesper",
+      "Fira",
+      "Ashen"
     ],
     "ends": [
       "ix",
@@ -678,7 +1126,11 @@
       "aris",
       "or",
       "yn",
-      "ius"
+      "ius",
+      "a",
+      "ia",
+      "on",
+      "lum"
     ]
   },
   "kraken": {
@@ -695,7 +1147,21 @@
       "Korr",
       "Naut",
       "Zyra",
-      "Ulka"
+      "Ulka",
+      "Abyss",
+      "Brine",
+      "Dread",
+      "Gloom",
+      "Nere",
+      "Oke",
+      "Pelag",
+      "Ript",
+      "Salth",
+      "Ulmo",
+      "Vast",
+      "Wyrm",
+      "Zyph",
+      "Kora"
     ],
     "ends": [
       "ken",
@@ -711,7 +1177,16 @@
       "ak",
       "oth",
       "el",
-      "ael"
+      "ael",
+      "a",
+      "ia",
+      "os",
+      "or",
+      "yx",
+      "ara",
+      "en",
+      "in",
+      "une"
     ]
   },
   "golem": {
@@ -730,7 +1205,22 @@
       "Boul",
       "Geo",
       "Karn",
-      "Dura"
+      "Dura",
+      "Basal",
+      "Bront",
+      "Cairn",
+      "Ferr",
+      "Kera",
+      "Kryp",
+      "Lode",
+      "Marb",
+      "Obsid",
+      "Petr",
+      "Slate",
+      "Terra",
+      "Umber",
+      "Vitr",
+      "Onyx"
     ],
     "ends": [
       "em",
@@ -746,7 +1236,15 @@
       "orn",
       "ax",
       "en",
-      "us"
+      "us",
+      "um",
+      "a",
+      "or",
+      "rock",
+      "stone",
+      "core",
+      "forge",
+      "ore"
     ]
   },
   "hydra": {
@@ -763,7 +1261,18 @@
       "Thessa",
       "Zyra",
       "Lerna",
-      "Kora"
+      "Kora",
+      "Draka",
+      "Eury",
+      "Hydria",
+      "Mira",
+      "Nera",
+      "Oph",
+      "Poly",
+      "Serp",
+      "Vyr",
+      "Aeth",
+      "Many"
     ],
     "ends": [
       "dra",
@@ -778,7 +1287,14 @@
       "eus",
       "ael",
       "ine",
-      "os"
+      "os",
+      "dris",
+      "ria",
+      "riae",
+      "a",
+      "coil",
+      "head",
+      "scale"
     ]
   },
   "griffin": {
@@ -795,7 +1311,21 @@
       "Vael",
       "Corv",
       "Eagle",
-      "Lio"
+      "Lio",
+      "Caelum",
+      "Corvin",
+      "Eryon",
+      "Gryph",
+      "Liora",
+      "Ravian",
+      "Soren",
+      "Talon",
+      "Valen",
+      "Zeph",
+      "Aurel",
+      "Galen",
+      "Orin",
+      "Veyr"
     ],
     "ends": [
       "fin",
@@ -810,7 +1340,14 @@
       "is",
       "eus",
       "or",
-      "eth"
+      "eth",
+      "a",
+      "ia",
+      "ar",
+      "wing",
+      "claw",
+      "feather",
+      "sky"
     ]
   },
   "sphinx": {
@@ -827,7 +1364,19 @@
       "Vara",
       "Orin",
       "Safi",
-      "Zara"
+      "Zara",
+      "Amun",
+      "Ankh",
+      "Khepri",
+      "Kemet",
+      "Mara",
+      "Nef",
+      "Osir",
+      "Rami",
+      "Sekh",
+      "Zari",
+      "Asera",
+      "Akh"
     ],
     "ends": [
       "inx",
@@ -842,7 +1391,13 @@
       "yn",
       "eus",
       "ia",
-      "ir"
+      "ir",
+      "a",
+      "ar",
+      "es",
+      "ah",
+      "et",
+      "os"
     ]
   },
   "banshee": {
@@ -858,7 +1413,21 @@
       "Whis",
       "Lament",
       "Vela",
-      "Nyra"
+      "Nyra",
+      "Ais",
+      "Bela",
+      "Faye",
+      "Keira",
+      "Mara",
+      "Morr",
+      "Nessa",
+      "Riona",
+      "Saira",
+      "Sera",
+      "Sio",
+      "Wraith",
+      "Ysolde",
+      "Elen"
     ],
     "ends": [
       "hee",
@@ -873,7 +1442,14 @@
       "ine",
       "ael",
       "yn",
-      "essa"
+      "essa",
+      "a",
+      "ia",
+      "ira",
+      "issa",
+      "elle",
+      "ena",
+      "yne"
     ]
   },
   "chimera": {
@@ -890,7 +1466,20 @@
       "Myr",
       "Hyb",
       "Cora",
-      "Nexa"
+      "Nexa",
+      "Astra",
+      "Beast",
+      "Chyra",
+      "Dra",
+      "Elyra",
+      "Fera",
+      "Liora",
+      "Neme",
+      "Ophira",
+      "Serra",
+      "Thyra",
+      "Xyra",
+      "Myra"
     ],
     "ends": [
       "ra",
@@ -906,7 +1495,12 @@
       "eth",
       "eus",
       "ael",
-      "yx"
+      "yx",
+      "a",
+      "ia",
+      "ar",
+      "or",
+      "ara"
     ]
   },
   "basilisk": {
@@ -922,7 +1516,15 @@
       "Vyr",
       "Sile",
       "Zar",
-      "Oph"
+      "Oph",
+      "Basilia",
+      "Cobra",
+      "Drak",
+      "Medu",
+      "Saur",
+      "Viper",
+      "Zer",
+      "Raza"
     ],
     "ends": [
       "isk",
@@ -937,7 +1539,15 @@
       "os",
       "eus",
       "ax",
-      "en"
+      "en",
+      "a",
+      "ia",
+      "ar",
+      "iel",
+      "ora",
+      "ven",
+      "gaze",
+      "stone"
     ]
   },
   "wizard": {
@@ -956,7 +1566,24 @@
       "Cel",
       "Val",
       "Zer",
-      "Aeth"
+      "Aeth",
+      "Alar",
+      "Arcan",
+      "Eldrin",
+      "Elric",
+      "Fael",
+      "Galen",
+      "Merlin",
+      "Myr",
+      "Neth",
+      "Orin",
+      "Rael",
+      "Rhun",
+      "Thalen",
+      "Valen",
+      "Wyst",
+      "Xeran",
+      "Zorin"
     ],
     "ends": [
       "on",
@@ -977,7 +1604,11 @@
       "spire",
       "lore",
       "craft",
-      "wise"
+      "wise",
+      "a",
+      "ia",
+      "is",
+      "wyn"
     ]
   },
   "knight": {
@@ -997,7 +1628,25 @@
       "God",
       "Win",
       "Ald",
-      "Kael"
+      "Kael",
+      "Alden",
+      "Aric",
+      "Cedric",
+      "Darian",
+      "Edric",
+      "Gareth",
+      "Hadrian",
+      "Joren",
+      "Kaelen",
+      "Leoric",
+      "Roland",
+      "Tristan",
+      "Valric",
+      "Warren",
+      "Alaric",
+      "Beric",
+      "Corwin",
+      "Edwin"
     ],
     "ends": [
       "ian",
@@ -1017,7 +1666,10 @@
       "crest",
       "dawn",
       "ael",
-      "or"
+      "or",
+      "a",
+      "ia",
+      "wyn"
     ]
   },
   "pirate": {
@@ -1037,7 +1689,15 @@
       "Salt",
       "Cors",
       "Rav",
-      "Mar"
+      "Mar",
+      "Brine",
+      "Dread",
+      "Gale",
+      "Rogue",
+      "Skull",
+      "Tide",
+      "Wharf",
+      "Barn"
     ],
     "ends": [
       "beard",
@@ -1057,7 +1717,9 @@
       "plunder",
       "swash",
       "mar",
-      "bane"
+      "bane",
+      "blade",
+      "deck"
     ]
   },
   "demon": {
@@ -1077,7 +1739,22 @@
       "Hec",
       "Vex",
       "Zar",
-      "Nox"
+      "Nox",
+      "Amon",
+      "Asmod",
+      "Azar",
+      "Baal",
+      "Belial",
+      "Drax",
+      "Hela",
+      "Khar",
+      "Lilith",
+      "Malak",
+      "Mord",
+      "Nab",
+      "Raz",
+      "Samael",
+      "Zeth"
     ],
     "ends": [
       "or",
@@ -1098,7 +1775,9 @@
       "volk",
       "mort",
       "ar",
-      "eth"
+      "eth",
+      "a",
+      "ia"
     ]
   },
   "angel": {
@@ -1117,7 +1796,23 @@
       "Luma",
       "Aurel",
       "Cael",
-      "Ely"
+      "Ely",
+      "Adriel",
+      "Ariel",
+      "Cass",
+      "Celest",
+      "Eli",
+      "Elyon",
+      "Han",
+      "Joph",
+      "Luc",
+      "Micha",
+      "Raph",
+      "Sar",
+      "Uriel",
+      "Zaph",
+      "Seren",
+      "Aure"
     ],
     "ends": [
       "ael",
@@ -1135,7 +1830,9 @@
       "astra",
       "sanct",
       "grace",
-      "eth"
+      "eth",
+      "a",
+      "ia"
     ]
   },
   "zombie": {
@@ -1153,7 +1850,17 @@
       "Fester",
       "Ruin",
       "Ash",
-      "Dreg"
+      "Dreg",
+      "Blight",
+      "Crum",
+      "Grav",
+      "Mort",
+      "Scab",
+      "Skel",
+      "Vile",
+      "Worm",
+      "Doom",
+      "Fang"
     ],
     "ends": [
       "rot",
@@ -1172,7 +1879,13 @@
       "dust",
       "fade",
       "en",
-      "or"
+      "or",
+      "a",
+      "ia",
+      "is",
+      "on",
+      "us",
+      "lost"
     ]
   },
   "skeleton": {
@@ -1188,7 +1901,21 @@
       "Clav",
       "Stern",
       "Phal",
-      "Osse"
+      "Osse",
+      "Calci",
+      "Femur",
+      "Humer",
+      "Mand",
+      "Patell",
+      "Phalan",
+      "Scap",
+      "Tibi",
+      "Ulna",
+      "Verte",
+      "Zyg",
+      "Coxa",
+      "Radius",
+      "Spina"
     ],
     "ends": [
       "on",
@@ -1207,7 +1934,11 @@
       "oid",
       "bound",
       "breaker",
-      "shatter"
+      "shatter",
+      "a",
+      "ia",
+      "is",
+      "bone"
     ]
   },
   "ghost": {
@@ -1226,7 +1957,15 @@
       "Whisp",
       "Mur",
       "Eira",
-      "Nox"
+      "Nox",
+      "Aether",
+      "Ech",
+      "Eid",
+      "Mist",
+      "Wraith",
+      "Yure",
+      "Vesper",
+      "Mourn"
     ],
     "ends": [
       "ral",
@@ -1246,7 +1985,12 @@
       "whisper",
       "echo",
       "fade",
-      "wyn"
+      "wyn",
+      "a",
+      "ia",
+      "is",
+      "on",
+      "mist"
     ]
   },
   "titan": {
@@ -1264,7 +2008,20 @@
       "Kron",
       "Aeg",
       "Val",
-      "Arkon"
+      "Arkon",
+      "Aegon",
+      "Atlas",
+      "Bront",
+      "Chron",
+      "Hyper",
+      "Kronos",
+      "Olym",
+      "Orion",
+      "Prom",
+      "Rhea",
+      "Uran",
+      "Xan",
+      "Zeus"
     ],
     "ends": [
       "as",
@@ -1282,7 +2039,13 @@
       "prime",
       "ael",
       "ion",
-      "ar"
+      "ar",
+      "a",
+      "ia",
+      "os",
+      "giant",
+      "coloss",
+      "levi"
     ]
   },
   "cyclops": {
@@ -1299,7 +2062,14 @@
       "Koro",
       "Vey",
       "Sera",
-      "Oph"
+      "Oph",
+      "Aeg",
+      "Eyn",
+      "Hel",
+      "Ocu",
+      "Orin",
+      "Xen",
+      "Myr"
     ],
     "ends": [
       "ops",
@@ -1315,7 +2085,13 @@
       "glint",
       "flare",
       "spark",
-      "wyn"
+      "wyn",
+      "a",
+      "ia",
+      "os",
+      "iel",
+      "shine",
+      "vision"
     ]
   },
   "minotaur": {
@@ -1332,7 +2108,19 @@
       "Maze",
       "Karn",
       "Mino",
-      "Aster"
+      "Aster",
+      "Boros",
+      "Damar",
+      "Eryx",
+      "Gor",
+      "Minos",
+      "Oxen",
+      "Roth",
+      "Thar",
+      "Torin",
+      "Vargos",
+      "Zorin",
+      "Auron"
     ],
     "ends": [
       "aur",
@@ -1349,7 +2137,10 @@
       "shadow",
       "void",
       "lab",
-      "ryn"
+      "ryn",
+      "a",
+      "ia",
+      "on"
     ]
   },
   "harpy": {
@@ -1366,7 +2157,17 @@
       "Sora",
       "Aira",
       "Vey",
-      "Plum"
+      "Plum",
+      "Aero",
+      "Cirra",
+      "Kest",
+      "Rhea",
+      "Talon",
+      "Veya",
+      "Aeris",
+      "Alia",
+      "Skye",
+      "Wind"
     ],
     "ends": [
       "py",
@@ -1383,7 +2184,11 @@
       "gale",
       "storm",
       "cloud",
-      "ael"
+      "ael",
+      "a",
+      "gust",
+      "sky",
+      "air"
     ]
   },
   "siren": {
@@ -1400,7 +2205,18 @@
       "Sona",
       "Chara",
       "Vela",
-      "Nai"
+      "Nai",
+      "Calyp",
+      "Elyra",
+      "Melia",
+      "Mira",
+      "Naiad",
+      "Nerissa",
+      "Sela",
+      "Thal",
+      "Yara",
+      "Ariel",
+      "Cora"
     ],
     "ends": [
       "en",
@@ -1418,7 +2234,12 @@
       "tone",
       "note",
       "chord",
-      "harmony"
+      "harmony",
+      "ara",
+      "ora",
+      "elle",
+      "issa",
+      "yne"
     ]
   },
   "leviathan": {
@@ -1435,7 +2256,16 @@
       "Deep",
       "Aqua",
       "Vast",
-      "Naut"
+      "Naut",
+      "Abyss",
+      "Aqual",
+      "Brine",
+      "Maren",
+      "Ocean",
+      "Pelag",
+      "Ript",
+      "Voryn",
+      "Aegir"
     ],
     "ends": [
       "athan",
@@ -1454,7 +2284,13 @@
       "sea",
       "marine",
       "ael",
-      "ora"
+      "ora",
+      "a",
+      "ia",
+      "en",
+      "is",
+      "on",
+      "ar"
     ]
   },
   "wyvern": {
@@ -1471,7 +2307,16 @@
       "Zyr",
       "Rava",
       "Kael",
-      "Drav"
+      "Drav",
+      "Drake",
+      "Flame",
+      "Gyr",
+      "Nyr",
+      "Rhaz",
+      "Avar",
+      "Draeg",
+      "Skar",
+      "Vael"
     ],
     "ends": [
       "ven",
@@ -1490,7 +2335,11 @@
       "ember",
       "drake",
       "wyrm",
-      "ael"
+      "ael",
+      "a",
+      "ia",
+      "en",
+      "or"
     ]
   },
   "troll": {
@@ -1508,7 +2357,14 @@
       "Karn",
       "Mog",
       "Throg",
-      "Rok"
+      "Rok",
+      "Brug",
+      "Grak",
+      "Krag",
+      "Ston",
+      "Thog",
+      "Ulg",
+      "Vrog"
     ],
     "ends": [
       "oll",
@@ -1526,7 +2382,13 @@
       "mighty",
       "force",
       "crush",
-      "smash"
+      "smash",
+      "a",
+      "ia",
+      "on",
+      "ar",
+      "or",
+      "giant"
     ]
   },
   "ogre": {
@@ -1544,7 +2406,18 @@
       "Crag",
       "Grog",
       "Mog",
-      "Rag"
+      "Rag",
+      "Brak",
+      "Brug",
+      "Drog",
+      "Krog",
+      "Ogr",
+      "Thog",
+      "Ugro",
+      "Varg",
+      "Brog",
+      "Garn",
+      "Ruk"
     ],
     "ends": [
       "re",
@@ -1561,7 +2434,12 @@
       "crag",
       "ridge",
       "cliff",
-      "gorge"
+      "gorge",
+      "a",
+      "ia",
+      "on",
+      "ar",
+      "or"
     ]
   },
   "faerie": {
@@ -1579,7 +2457,19 @@
       "Luma",
       "Ench",
       "Aeri",
-      "Nym"
+      "Nym",
+      "Astra",
+      "Bloom",
+      "Dew",
+      "Elfa",
+      "Fiora",
+      "Lumi",
+      "Rose",
+      "Sylph",
+      "Twyla",
+      "Vivi",
+      "Wisp",
+      "Zella"
     ],
     "ends": [
       "rie",
@@ -1597,7 +2487,15 @@
       "enchant",
       "mystery",
       "ael",
-      "wyn"
+      "wyn",
+      "a",
+      "ia",
+      "elle",
+      "ara",
+      "ora",
+      "iel",
+      "glimmer",
+      "bloom"
     ]
   },
   "dryad": {
@@ -1615,7 +2513,15 @@
       "Aspen",
       "Ash",
       "Laurel",
-      "Syl"
+      "Syl",
+      "Alder",
+      "Fern",
+      "Hazel",
+      "Rowan",
+      "Yew",
+      "Briar",
+      "Ivy",
+      "Moss"
     ],
     "ends": [
       "ad",
@@ -1633,7 +2539,12 @@
       "vine",
       "timber",
       "folia",
-      "wyn"
+      "wyn",
+      "a",
+      "ia",
+      "elle",
+      "ora",
+      "grove"
     ]
   },
   "gorgon": {
@@ -1649,7 +2560,15 @@
       "Naja",
       "Hair",
       "Oph",
-      "Vara"
+      "Vara",
+      "Alect",
+      "Vora",
+      "Xera",
+      "Zara",
+      "Meda",
+      "Sthen",
+      "Eury",
+      "Lamia"
     ],
     "ends": [
       "gon",
@@ -1667,7 +2586,12 @@
       "petrify",
       "freeze",
       "still",
-      "lock"
+      "lock",
+      "a",
+      "ia",
+      "is",
+      "on",
+      "os"
     ]
   },
   "unicorn": {
@@ -1685,7 +2609,20 @@
       "Cel",
       "Astra",
       "Eira",
-      "Vela"
+      "Vela",
+      "Ael",
+      "Aeri",
+      "Aurora",
+      "Celest",
+      "Crystal",
+      "Elara",
+      "Lumi",
+      "Lunara",
+      "Opal",
+      "Raina",
+      "Seraph",
+      "Silva",
+      "Stella"
     ],
     "ends": [
       "orn",
@@ -1704,7 +2641,11 @@
       "shine",
       "ael",
       "ora",
-      "is"
+      "is",
+      "a",
+      "ia",
+      "elle",
+      "horn"
     ]
   }
 }
