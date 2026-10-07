@@ -35,7 +35,20 @@
       "Rhea",
       "Tarin",
       "Vela",
-      "Wren"
+      "Wren",
+      "Steed",
+      "Hast",
+      "Swift",
+      "Gallo",
+      "Troth",
+      "Raven",
+      "Bay",
+      "Dun",
+      "Roan",
+      "Palom",
+      "Frost",
+      "Shadow",
+      "Thunder"
     ],
     "ends": [
       "den",
@@ -67,7 +80,14 @@
       "ir",
       "yn",
       "yra",
-      "ina"
+      "ina",
+      "hoof",
+      "mane",
+      "gallop",
+      "swift",
+      "stride",
+      "trot",
+      "canter"
     ]
   },
   "treant": {
@@ -103,7 +123,15 @@
       "Yew",
       "Crown",
       "Druid",
-      "Verd"
+      "Verd",
+      "Timber",
+      "Bark",
+      "Leaf",
+      "Branch",
+      "Canopy",
+      "Forest",
+      "Sylvan",
+      "Woode"
     ],
     "ends": [
       "ant",
@@ -133,7 +161,13 @@
       "seed",
       "shade",
       "vine",
-      "ara"
+      "ara",
+      "bough",
+      "trunk",
+      "wood",
+      "forest",
+      "sapling",
+      "seedling"
     ]
   },
   "artifact": {
@@ -171,7 +205,13 @@
       "Star",
       "Void",
       "Aural",
-      "Vesper"
+      "Vesper",
+      "Ancient",
+      "Sacred",
+      "Holy",
+      "Dark",
+      "Lost",
+      "Forgotten"
     ],
     "ends": [
       "fact",
@@ -198,7 +238,15 @@
       "ess",
       "ence",
       "ance",
-      "ion"
+      "ion",
+      "blade",
+      "staff",
+      "ring",
+      "orb",
+      "gem",
+      "crown",
+      "scepter",
+      "amulet"
     ]
   },
   "centaur": {
@@ -235,7 +283,11 @@
       "Orin",
       "Peren",
       "Ralen",
-      "Soren"
+      "Soren",
+      "Half",
+      "Halfhoof",
+      "Mane",
+      "Rider"
     ],
     "ends": [
       "aur",
@@ -261,7 +313,13 @@
       "er",
       "il",
       "yn",
-      "ien"
+      "ien",
+      "rider",
+      "warrior",
+      "archer",
+      "steed",
+      "hunter",
+      "scout"
     ]
   },
   "mermaid": {
@@ -297,7 +355,13 @@
       "Talia",
       "Veya",
       "Waver",
-      "Yara"
+      "Yara",
+      "Sea",
+      "Tide",
+      "Wave",
+      "Foam",
+      "Deep",
+      "Abyss"
     ],
     "ends": [
       "maid",
@@ -322,7 +386,13 @@
       "ael",
       "ena",
       "ea",
-      "aya"
+      "aya",
+      "fin",
+      "tail",
+      "scale",
+      "shell",
+      "siren",
+      "singer"
     ]
   },
   "elf": {
@@ -357,7 +427,12 @@
       "Ther",
       "Yav",
       "Lira",
-      "Sylas"
+      "Sylas",
+      "Wood",
+      "Sun",
+      "Moon",
+      "Star",
+      "Light"
     ],
     "ends": [
       "wyn",
@@ -384,7 +459,13 @@
       "dor",
       "mir",
       "ara",
-      "ora"
+      "ora",
+      "bow",
+      "blade",
+      "mage",
+      "lord",
+      "lady",
+      "singer"
     ]
   },
   "dragon": {
@@ -419,7 +500,12 @@
       "Xar",
       "Zor",
       "Ignar",
-      "Pyrel"
+      "Pyrel",
+      "Flame",
+      "Fire",
+      "Heat",
+      "Burn",
+      "Scorch"
     ],
     "ends": [
       "on",
@@ -445,7 +531,15 @@
       "oth",
       "drak",
       "wyr",
-      "ius"
+      "ius",
+      "flame",
+      "fury",
+      "claw",
+      "wing",
+      "scale",
+      "breath",
+      "might",
+      "rage"
     ]
   },
   "twilek": {
@@ -482,7 +576,10 @@
       "Vira",
       "Wela",
       "Yela",
-      "Zira"
+      "Zira",
+      "Head",
+      "Tali",
+      "Antenna"
     ],
     "ends": [
       "lek",
@@ -511,7 +608,10 @@
       "irae",
       "elle",
       "ena",
-      "eya"
+      "eya",
+      "slave",
+      "freed",
+      "talis"
     ]
   },
   "togruta": {
@@ -545,7 +645,10 @@
       "Teya",
       "Vara",
       "Yani",
-      "Zaya"
+      "Zaya",
+      "Marked",
+      "Hood",
+      "Horns"
     ],
     "ends": [
       "uta",
@@ -572,7 +675,10 @@
       "ina",
       "eya",
       "eli",
-      "ri"
+      "ri",
+      "warrior",
+      "tribe",
+      "clan"
     ]
   },
   "faun": {
@@ -607,7 +713,10 @@
       "Sorrel",
       "Thyme",
       "Vale",
-      "Wilder"
+      "Wilder",
+      "Horn",
+      "Pipe",
+      "Reed"
     ],
     "ends": [
       "n",
@@ -629,7 +738,12 @@
       "in",
       "an",
       "el",
-      "ira"
+      "ira",
+      "goat",
+      "shepherd",
+      "herder",
+      "dancer",
+      "flute"
     ]
   },
   "conutaur": {
@@ -663,7 +777,10 @@
       "Zorin",
       "Auren",
       "Coryn",
-      "Eun"
+      "Eun",
+      "Half",
+      "Dual",
+      "Combined"
     ],
     "ends": [
       "taur",
@@ -686,7 +803,11 @@
       "yn",
       "el",
       "ine",
-      "ius"
+      "ius",
+      "horn",
+      "charger",
+      "mare",
+      "stallion"
     ]
   },
   "orc": {
@@ -724,7 +845,10 @@
       "Zarg",
       "Durg",
       "Krul",
-      "Maug"
+      "Maug",
+      "Uruk",
+      "Bol",
+      "Khaz"
     ],
     "ends": [
       "ak",
@@ -748,7 +872,13 @@
       "gash",
       "mog",
       "thok",
-      "zog"
+      "zog",
+      "war",
+      "brute",
+      "champion",
+      "boss",
+      "chieftain",
+      "warrior"
     ]
   },
   "dwarf": {
@@ -784,7 +914,11 @@
       "Thrain",
       "Varr",
       "Keld",
-      "Morin"
+      "Morin",
+      "Stone",
+      "Gold",
+      "Mine",
+      "Forge"
     ],
     "ends": [
       "in",
@@ -807,7 +941,14 @@
       "ik",
       "dor",
       "mund",
-      "stone"
+      "stone",
+      "beard",
+      "hammer",
+      "axe",
+      "smith",
+      "king",
+      "lord",
+      "thane"
     ]
   },
   "werewolf": {
@@ -844,7 +985,10 @@
       "Warg",
       "Yorin",
       "Zarek",
-      "Howlan"
+      "Howlan",
+      "Pack",
+      "Alpha",
+      "Night"
     ],
     "ends": [
       "wolf",
@@ -871,7 +1015,12 @@
       "ir",
       "var",
       "moon",
-      "night"
+      "night",
+      "claw",
+      "pelt",
+      "fur",
+      "pack",
+      "hunter"
     ]
   },
   "goblin": {
@@ -910,7 +1059,10 @@
       "Tiz",
       "Vik",
       "Zik",
-      "Zup"
+      "Zup",
+      "Greml",
+      "Imp",
+      "Scrat"
     ],
     "ends": [
       "lin",
@@ -946,7 +1098,10 @@
       "vik",
       "zib",
       "zog",
-      "zup"
+      "zup",
+      "trick",
+      "grease",
+      "knack"
     ]
   },
   "android": {
@@ -983,7 +1138,12 @@
       "VX",
       "XEN",
       "ZET",
-      "AUR"
+      "AUR",
+      "Servo",
+      "Autom",
+      "Digit",
+      "Neural",
+      "Quantum"
     ],
     "ends": [
       "oid",
@@ -1018,7 +1178,13 @@
       "MK5",
       "V2",
       "V3",
-      "CORE"
+      "CORE",
+      "unit",
+      "model",
+      "series",
+      "mark",
+      "version",
+      "matrix"
     ]
   },
   "cyborg": {
@@ -1053,7 +1219,10 @@
       "Proto",
       "Tech",
       "Volt",
-      "Xeno"
+      "Xeno",
+      "Implant",
+      "Enhanced",
+      "Augment"
     ],
     "ends": [
       "org",
@@ -1079,7 +1248,11 @@
       "mesh",
       "prime",
       "or",
-      "is"
+      "is",
+      "enhanced",
+      "augmented",
+      "modified",
+      "upgraded"
     ]
   },
   "phoenix": {
@@ -1109,7 +1282,10 @@
       "Sola",
       "Vesper",
       "Fira",
-      "Ashen"
+      "Ashen",
+      "Phoenix",
+      "Reborn",
+      "Rising"
     ],
     "ends": [
       "ix",
@@ -1130,7 +1306,12 @@
       "a",
       "ia",
       "on",
-      "lum"
+      "lum",
+      "rebirth",
+      "ashes",
+      "flame",
+      "rise",
+      "renewed"
     ]
   },
   "kraken": {
@@ -1161,7 +1342,10 @@
       "Vast",
       "Wyrm",
       "Zyph",
-      "Kora"
+      "Kora",
+      "Levi",
+      "Squid",
+      "Octo"
     ],
     "ends": [
       "ken",
@@ -1186,7 +1370,12 @@
       "ara",
       "en",
       "in",
-      "une"
+      "une",
+      "tentacle",
+      "titan",
+      "beast",
+      "monster",
+      "depth"
     ]
   },
   "golem": {
@@ -1220,7 +1409,10 @@
       "Terra",
       "Umber",
       "Vitr",
-      "Onyx"
+      "Onyx",
+      "Earth",
+      "Mud",
+      "Sand"
     ],
     "ends": [
       "em",
@@ -1244,7 +1436,10 @@
       "stone",
       "core",
       "forge",
-      "ore"
+      "ore",
+      "construct",
+      "guardian",
+      "sentinel"
     ]
   },
   "hydra": {
@@ -1272,7 +1467,11 @@
       "Serp",
       "Vyr",
       "Aeth",
-      "Many"
+      "Many",
+      "Nine",
+      "Seven",
+      "Three",
+      "Five"
     ],
     "ends": [
       "dra",
@@ -1294,7 +1493,11 @@
       "a",
       "coil",
       "head",
-      "scale"
+      "scale",
+      "poison",
+      "venom",
+      "serpent",
+      "multi"
     ]
   },
   "griffin": {
@@ -1325,7 +1528,10 @@
       "Aurel",
       "Galen",
       "Orin",
-      "Veyr"
+      "Veyr",
+      "Sky",
+      "Flight",
+      "Wing"
     ],
     "ends": [
       "fin",
@@ -1347,7 +1553,11 @@
       "wing",
       "claw",
       "feather",
-      "sky"
+      "sky",
+      "soar",
+      "hawk",
+      "eagle",
+      "majestic"
     ]
   },
   "sphinx": {
@@ -1376,7 +1586,10 @@
       "Sekh",
       "Zari",
       "Asera",
-      "Akh"
+      "Akh",
+      "Desert",
+      "Sand",
+      "Quest"
     ],
     "ends": [
       "inx",
@@ -1397,7 +1610,14 @@
       "es",
       "ah",
       "et",
-      "os"
+      "os",
+      "riddle",
+      "question",
+      "answer",
+      "wisdom",
+      "oracle",
+      "oracle",
+      "guardian"
     ]
   },
   "banshee": {
@@ -1427,7 +1647,10 @@
       "Sio",
       "Wraith",
       "Ysolde",
-      "Elen"
+      "Elen",
+      "Death",
+      "Omen",
+      "Curse"
     ],
     "ends": [
       "hee",
@@ -1449,7 +1672,14 @@
       "issa",
       "elle",
       "ena",
-      "yne"
+      "yne",
+      "wail",
+      "cry",
+      "shriek",
+      "lament",
+      "scream",
+      "omen",
+      "spirit"
     ]
   },
   "chimera": {
@@ -1479,7 +1709,10 @@
       "Serra",
       "Thyra",
       "Xyra",
-      "Myra"
+      "Myra",
+      "Mixed",
+      "Blend",
+      "Fused"
     ],
     "ends": [
       "ra",
@@ -1500,7 +1733,12 @@
       "ia",
       "ar",
       "or",
-      "ara"
+      "ara",
+      "mixed",
+      "combined",
+      "fusion",
+      "hybrid",
+      "chimera"
     ]
   },
   "basilisk": {
@@ -1524,7 +1762,10 @@
       "Saur",
       "Viper",
       "Zer",
-      "Raza"
+      "Raza",
+      "Stone",
+      "Petrif",
+      "Venom"
     ],
     "ends": [
       "isk",
@@ -1547,7 +1788,11 @@
       "ora",
       "ven",
       "gaze",
-      "stone"
+      "stone",
+      "petrify",
+      "venom",
+      "killer",
+      "stare"
     ]
   },
   "wizard": {
@@ -1583,7 +1828,10 @@
       "Valen",
       "Wyst",
       "Xeran",
-      "Zorin"
+      "Zorin",
+      "Magic",
+      "Spell",
+      "Arcane"
     ],
     "ends": [
       "on",
@@ -1608,7 +1856,13 @@
       "a",
       "ia",
       "is",
-      "wyn"
+      "wyn",
+      "mage",
+      "sorcerer",
+      "enchanter",
+      "spellcaster",
+      "master",
+      "archmage"
     ]
   },
   "knight": {
@@ -1646,7 +1900,10 @@
       "Alaric",
       "Beric",
       "Corwin",
-      "Edwin"
+      "Edwin",
+      "Sir",
+      "Lord",
+      "Lance"
     ],
     "ends": [
       "ian",
@@ -1669,7 +1926,13 @@
       "or",
       "a",
       "ia",
-      "wyn"
+      "wyn",
+      "banner",
+      "charger",
+      "defender",
+      "protector",
+      "warrior",
+      "squire"
     ]
   },
   "pirate": {
@@ -1697,7 +1960,10 @@
       "Skull",
       "Tide",
       "Wharf",
-      "Barn"
+      "Barn",
+      "Sea",
+      "Ocean",
+      "Ship"
     ],
     "ends": [
       "beard",
@@ -1719,7 +1985,12 @@
       "mar",
       "bane",
       "blade",
-      "deck"
+      "deck",
+      "captain",
+      "sailor",
+      "buccaneer",
+      "corsair",
+      "rogue"
     ]
   },
   "demon": {
@@ -1754,7 +2025,11 @@
       "Nab",
       "Raz",
       "Samael",
-      "Zeth"
+      "Zeth",
+      "Hell",
+      "Infernal",
+      "Evil",
+      "Dark"
     ],
     "ends": [
       "or",
@@ -1777,7 +2052,14 @@
       "ar",
       "eth",
       "a",
-      "ia"
+      "ia",
+      "fiend",
+      "spawn",
+      "darkness",
+      "hell",
+      "evil",
+      "malice",
+      "torment"
     ]
   },
   "angel": {
@@ -1812,7 +2094,12 @@
       "Uriel",
       "Zaph",
       "Seren",
-      "Aure"
+      "Aure",
+      "Heaven",
+      "Divine",
+      "Holy",
+      "Sacred",
+      "Light"
     ],
     "ends": [
       "ael",
@@ -1832,7 +2119,13 @@
       "grace",
       "eth",
       "a",
-      "ia"
+      "ia",
+      "guardian",
+      "messenger",
+      "seraph",
+      "virtue",
+      "radiant",
+      "glory"
     ]
   },
   "zombie": {
@@ -1860,7 +2153,10 @@
       "Vile",
       "Worm",
       "Doom",
-      "Fang"
+      "Fang",
+      "Shambling",
+      "Walking",
+      "Hungry"
     ],
     "ends": [
       "rot",
@@ -1885,7 +2181,10 @@
       "is",
       "on",
       "us",
-      "lost"
+      "lost",
+      "rotten",
+      "decaying",
+      "wretched"
     ]
   },
   "skeleton": {
@@ -1915,7 +2214,9 @@
       "Zyg",
       "Coxa",
       "Radius",
-      "Spina"
+      "Spina",
+      "Dead",
+      "Blast"
     ],
     "ends": [
       "on",
@@ -1938,7 +2239,11 @@
       "a",
       "ia",
       "is",
-      "bone"
+      "bone",
+      "remains",
+      "bones",
+      "fragments",
+      "shards"
     ]
   },
   "ghost": {
@@ -1965,7 +2270,10 @@
       "Wraith",
       "Yure",
       "Vesper",
-      "Mourn"
+      "Mourn",
+      "Eternal",
+      "Forever",
+      "Bound"
     ],
     "ends": [
       "ral",
@@ -1990,7 +2298,12 @@
       "ia",
       "is",
       "on",
-      "mist"
+      "mist",
+      "spirit",
+      "shade",
+      "phantom",
+      "specter",
+      "apparition"
     ]
   },
   "titan": {
@@ -2021,7 +2334,10 @@
       "Rhea",
       "Uran",
       "Xan",
-      "Zeus"
+      "Zeus",
+      "Prime",
+      "Original",
+      "First"
     ],
     "ends": [
       "as",
@@ -2045,7 +2361,12 @@
       "os",
       "giant",
       "coloss",
-      "levi"
+      "levi",
+      "ancient",
+      "elder",
+      "primordial",
+      "power",
+      "might"
     ]
   },
   "cyclops": {
@@ -2069,7 +2390,10 @@
       "Ocu",
       "Orin",
       "Xen",
-      "Myr"
+      "Myr",
+      "Single",
+      "Eyed",
+      "Giant"
     ],
     "ends": [
       "ops",
@@ -2091,7 +2415,9 @@
       "os",
       "iel",
       "shine",
-      "vision"
+      "vision",
+      "blinder",
+      "watcher"
     ]
   },
   "minotaur": {
@@ -2120,7 +2446,9 @@
       "Torin",
       "Vargos",
       "Zorin",
-      "Auron"
+      "Auron",
+      "Labyrinth",
+      "Bullheaded"
     ],
     "ends": [
       "aur",
@@ -2140,7 +2468,12 @@
       "ryn",
       "a",
       "ia",
-      "on"
+      "on",
+      "bull",
+      "minotaur",
+      "minotaurus",
+      "labyrinth",
+      "beast"
     ]
   },
   "harpy": {
@@ -2167,7 +2500,10 @@
       "Aeris",
       "Alia",
       "Skye",
-      "Wind"
+      "Wind",
+      "Air",
+      "Storm",
+      "Cloud"
     ],
     "ends": [
       "py",
@@ -2188,7 +2524,10 @@
       "a",
       "gust",
       "sky",
-      "air"
+      "air",
+      "predator",
+      "snatcher",
+      "swoop"
     ]
   },
   "siren": {
@@ -2216,7 +2555,10 @@
       "Thal",
       "Yara",
       "Ariel",
-      "Cora"
+      "Cora",
+      "Song",
+      "Music",
+      "Call"
     ],
     "ends": [
       "en",
@@ -2239,7 +2581,10 @@
       "ora",
       "elle",
       "issa",
-      "yne"
+      "yne",
+      "singer",
+      "seductress",
+      "allure"
     ]
   },
   "leviathan": {
@@ -2265,7 +2610,10 @@
       "Pelag",
       "Ript",
       "Voryn",
-      "Aegir"
+      "Aegir",
+      "Colossal",
+      "Massive",
+      "Gigantic"
     ],
     "ends": [
       "athan",
@@ -2290,7 +2638,11 @@
       "en",
       "is",
       "on",
-      "ar"
+      "ar",
+      "titan",
+      "leviathan",
+      "abyssal",
+      "ancient"
     ]
   },
   "wyvern": {
@@ -2316,7 +2668,9 @@
       "Avar",
       "Draeg",
       "Skar",
-      "Vael"
+      "Vael",
+      "Poison",
+      "Venom"
     ],
     "ends": [
       "ven",
@@ -2339,7 +2693,10 @@
       "a",
       "ia",
       "en",
-      "or"
+      "or",
+      "serpent",
+      "twoleg",
+      "poisonous"
     ]
   },
   "troll": {
@@ -2364,7 +2721,10 @@
       "Ston",
       "Thog",
       "Ulg",
-      "Vrog"
+      "Vrog",
+      "Mountain",
+      "Large",
+      "Giant"
     ],
     "ends": [
       "oll",
@@ -2388,7 +2748,10 @@
       "on",
       "ar",
       "or",
-      "giant"
+      "giant",
+      "hill",
+      "bridge",
+      "cavern"
     ]
   },
   "ogre": {
@@ -2417,7 +2780,9 @@
       "Varg",
       "Brog",
       "Garn",
-      "Ruk"
+      "Ruk",
+      "Cannibal",
+      "Large"
     ],
     "ends": [
       "re",
@@ -2439,7 +2804,10 @@
       "ia",
       "on",
       "ar",
-      "or"
+      "or",
+      "flesh",
+      "man-eater",
+      "devourer"
     ]
   },
   "faerie": {
@@ -2469,7 +2837,9 @@
       "Twyla",
       "Vivi",
       "Wisp",
-      "Zella"
+      "Zella",
+      "Tiny",
+      "Magical"
     ],
     "ends": [
       "rie",
@@ -2495,7 +2865,11 @@
       "ora",
       "iel",
       "glimmer",
-      "bloom"
+      "bloom",
+      "fairy",
+      "tiny",
+      "magical",
+      "enchanted"
     ]
   },
   "dryad": {
@@ -2521,7 +2895,9 @@
       "Yew",
       "Briar",
       "Ivy",
-      "Moss"
+      "Moss",
+      "Tree",
+      "Wood"
     ],
     "ends": [
       "ad",
@@ -2544,108 +2920,1580 @@
       "ia",
       "elle",
       "ora",
-      "grove"
+      "grove",
+      "spirits",
+      "nymph",
+      "forest",
+      "woodland"
     ]
   },
+ {
   "gorgon": {
     "starts": [
       "Gor",
-      "Gorg",
-      "Sera",
-      "Med",
-      "Stone",
-      "Gaze",
+      "Serpa",
+      "Medu",
+      "Vip",
       "Serp",
-      "Viper",
-      "Naja",
-      "Hair",
+      "Hydra",
       "Oph",
-      "Vara",
-      "Alect",
-      "Vora",
-      "Xera",
-      "Zara",
-      "Meda",
-      "Sthen",
-      "Eury",
-      "Lamia"
+      "Kobra",
+      "Naja",
+      "Zar",
+      "Aster",
+      "Mira",
+      "Kora",
+      "Nexa",
+      "Stone",
+      "Petr",
+      "Gaze",
+      "Scales"
     ],
     "ends": [
-      "gon",
-      "stone",
-      "gaze",
+      "on",
+      "is",
+      "ia",
+      "ara",
+      "eth",
+      "yn",
+      "yx",
+      "orn",
+      "a",
+      "or",
       "serpent",
       "snake",
-      "hair",
-      "head",
-      "face",
-      "eye",
-      "stare",
-      "ray",
-      "strike",
-      "petrify",
-      "freeze",
-      "still",
-      "lock",
-      "a",
-      "ia",
-      "is",
-      "on",
-      "os"
+      "coils",
+      "scales",
+      "gaze",
+      "stare"
     ]
   },
-  "unicorn": {
+  "lion": {
     "starts": [
-      "Unic",
-      "Uni",
-      "Auri",
-      "Horn",
-      "Prism",
-      "Luma",
-      "Rainbow",
-      "Myst",
-      "Ench",
-      "Syl",
-      "Cel",
-      "Astra",
-      "Eira",
-      "Vela",
-      "Ael",
-      "Aeri",
-      "Aurora",
-      "Celest",
-      "Crystal",
-      "Elara",
-      "Lumi",
-      "Lunara",
-      "Opal",
-      "Raina",
-      "Seraph",
-      "Silva",
-      "Stella"
+      "Leo",
+      "Lion",
+      "Aurel",
+      "Roj",
+      "Mane",
+      "Roar",
+      "Simba",
+      "King",
+      "Cleo",
+      "Nala",
+      "Fier",
+      "Bold",
+      "Majest",
+      "Prid",
+      "Claw",
+      "Talon",
+      "Golden",
+      "Wild",
+      "Savanna",
+      "Afric",
+      "Mufasa",
+      "Scar",
+      "Simba",
+      "Zazu"
     ],
     "ends": [
-      "orn",
-      "ara",
-      "iel",
-      "wyn",
-      "magic",
-      "prism",
-      "rainbow",
-      "mystic",
-      "crystal",
-      "silver",
-      "diamond",
-      "gem",
-      "gleam",
-      "shine",
-      "ael",
-      "ora",
-      "is",
+      "n",
+      "us",
+      "ar",
+      "el",
+      "on",
+      "ian",
+      "or",
       "a",
       "ia",
-      "elle",
-      "horn"
+      "wyn",
+      "mane",
+      "roar",
+      "pride",
+      "king",
+      "hunter",
+      "claw",
+      "fierce",
+      "bold"
+    ]
+  },
+  "tiger": {
+    "starts": [
+      "Tig",
+      "Stria",
+      "Orange",
+      "Strip",
+      "Amur",
+      "Beng",
+      "Siber",
+      "Sumat",
+      "Indoch",
+      "Malay",
+      "Royal",
+      "BigCat",
+      "Fang",
+      "Claw",
+      "Jungle",
+      "Wild",
+      "Pounce",
+      "Hunter"
+    ],
+    "ends": [
+      "er",
+      "is",
+      "on",
+      "ar",
+      "a",
+      "ia",
+      "strip",
+      "fang",
+      "claw",
+      "stripe",
+      "hunter",
+      "predator",
+      "jungle",
+      "wild"
+    ]
+  },
+  "bear": {
+    "starts": [
+      "Bar",
+      "Ursa",
+      "Brown",
+      "Grizz",
+      "Polar",
+      "Black",
+      "Panda",
+      "Koala",
+      "Sun",
+      "Hibern",
+      "Forest",
+      "Wild",
+      "Ramp",
+      "Strong",
+      "Power",
+      "Mountain",
+      "Den"
+    ],
+    "ends": [
+      "ar",
+      "us",
+      "on",
+      "in",
+      "en",
+      "or",
+      "a",
+      "ia",
+      "den",
+      "forest",
+      "mountain",
+      "claw",
+      "paw",
+      "fierce",
+      "strong"
+    ]
+  },
+  "wolf": {
+    "starts": [
+      "Lup",
+      "Wolf",
+      "Grey",
+      "Tim",
+      "Arctic",
+      "Dire",
+      "Alpha",
+      "Pack",
+      "Howl",
+      "Moon",
+      "Fang",
+      "Fur",
+      "Wild",
+      "Forest",
+      "North",
+      "Snow"
+    ],
+    "ends": [
+      "f",
+      "in",
+      "or",
+      "ar",
+      "a",
+      "ia",
+      "pack",
+      "howl",
+      "fang",
+      "fur",
+      "alpha",
+      "leader",
+      "hunter"
+    ]
+  },
+  "eagle": {
+    "starts": [
+      "Eag",
+      "Aquil",
+      "Bald",
+      "Golden",
+      "White",
+      "Tail",
+      "Soar",
+      "Sky",
+      "Flight",
+      "Wing",
+      "High",
+      "Peak",
+      "Cliff",
+      "Nest",
+      "Predator"
+    ],
+    "ends": [
+      "le",
+      "on",
+      "us",
+      "ar",
+      "a",
+      "ia",
+      "wing",
+      "soar",
+      "flight",
+      "claw",
+      "talons",
+      "sky",
+      "peak",
+      "hunter"
+    ]
+  },
+  "shark": {
+    "starts": [
+      "Sha",
+      "Great",
+      "Whale",
+      "Hammer",
+      "Tiger",
+      "Bull",
+      "Mako",
+      "Thresher",
+      "Ocean",
+      "Deep",
+      "Sea",
+      "Blue",
+      "White",
+      "Fin",
+      "Teeth",
+      "Predator"
+    ],
+    "ends": [
+      "rk",
+      "on",
+      "us",
+      "ar",
+      "a",
+      "ia",
+      "fin",
+      "teeth",
+      "ocean",
+      "deep",
+      "sea",
+      "hunter",
+      "predator"
+    ]
+  },
+  "dolphin": {
+    "starts": [
+      "Dol",
+      "Del",
+      "Porpo",
+      "Ocean",
+      "Sea",
+      "Blue",
+      "Play",
+      "Smart",
+      "Wave",
+      "Splash",
+      "Jump",
+      "Fast",
+      "Swim",
+      "Friendly"
+    ],
+    "ends": [
+      "ph",
+      "in",
+      "us",
+      "a",
+      "ia",
+      "ocean",
+      "sea",
+      "play",
+      "swim",
+      "jump",
+      "fast",
+      "friendly"
+    ]
+  },
+  "whale": {
+    "starts": [
+      "Wha",
+      "Hump",
+      "Blue",
+      "Bow",
+      "Sperm",
+      "Orca",
+      "Killer",
+      "Ocean",
+      "Deep",
+      "Sea",
+      "Giant",
+      "Massive",
+      "Large"
+    ],
+    "ends": [
+      "e",
+      "on",
+      "us",
+      "a",
+      "ia",
+      "ocean",
+      "sea",
+      "deep",
+      "large",
+      "massive",
+      "giant"
+    ]
+  },
+  "elephant": {
+    "starts": [
+      "Ele",
+      "Trun",
+      "Afric",
+      "Asia",
+      "Tus",
+      "Large",
+      "Big",
+      "Gray",
+      "Wild",
+      "Savanna",
+      "Her",
+      "Smart",
+      "Memory"
+    ],
+    "ends": [
+      "nt",
+      "on",
+      "us",
+      "a",
+      "ia",
+      "trunk",
+      "tusk",
+      "large",
+      "big",
+      "smart",
+      "herd"
+    ]
+  },
+  "giraffe": {
+    "starts": [
+      "Gir",
+      "Neck",
+      "Tall",
+      "Spot",
+      "Savanna",
+      "Africa",
+      "Leaves",
+      "High",
+      "Reach",
+      "Grace",
+      "Long"
+    ],
+    "ends": [
+      "ffe",
+      "on",
+      "a",
+      "ia",
+      "neck",
+      "tall",
+      "spot",
+      "high",
+      "reach",
+      "grace"
+    ]
+  },
+  "zebra": {
+    "starts": [
+      "zeb",
+      "Stripe",
+      "Black",
+      "White",
+      "Africa",
+      "Plains",
+      "Herd",
+      "Wild",
+      "Fast",
+      "Run"
+    ],
+    "ends": [
+      "ra",
+      "on",
+      "a",
+      "ia",
+      "stripe",
+      "black",
+      "white",
+      "plains",
+      "herd",
+      "fast"
+    ]
+  },
+  "rhino": {
+    "starts": [
+      "Rhi",
+      "Horn",
+      "White",
+      "Black",
+      "India",
+      "Java",
+      "Sumatra",
+      "Huge",
+      "Armor",
+      "Thick",
+      "Skin",
+      "Wild",
+      "Africa"
+    ],
+    "ends": [
+      "no",
+      "on",
+      "us",
+      "a",
+      "ia",
+      "horn",
+      "armor",
+      "thick",
+      "skin",
+      "huge",
+      "wild"
+    ]
+  },
+  "hippo": {
+    "starts": [
+      "Hip",
+      "River",
+      "Horse",
+      "Big",
+      "Heavy",
+      "Water",
+      "Africa",
+      "Swim",
+      "Mouth",
+      "Wide",
+      "Large"
+    ],
+    "ends": [
+      "po",
+      "on",
+      "a",
+      "ia",
+      "river",
+      "heavy",
+      "water",
+      "swim",
+      "mouth",
+      "large"
+    ]
+  },
+  "cheetah": {
+    "starts": [
+      "Cheet",
+      "Speed",
+      "Fast",
+      "Spot",
+      "Yellow",
+      "Run",
+      "Chase",
+      "Savanna",
+      "Africa",
+      "Hunter",
+      "Quick"
+    ],
+    "ends": [
+      "tah",
+      "a",
+      "on",
+      "speed",
+      "fast",
+      "run",
+      "chase",
+      "hunter",
+      "quick",
+      "spot"
+    ]
+  },
+  "fox": {
+    "starts": [
+      "Fox",
+      "Red",
+      "Silver",
+      "Arctic",
+      "Vulp",
+      "Clever",
+      "Smart",
+      "Wild",
+      "Forest",
+      "Bush",
+      "Tail"
+    ],
+    "ends": [
+      "x",
+      "a",
+      "on",
+      "clever",
+      "smart",
+      "wild",
+      "forest",
+      "tail",
+      "hunter"
+    ]
+  },
+  "rabbit": {
+    "starts": [
+      "Rab",
+      "Hop",
+      "Ear",
+      "Bunny",
+      "Cott",
+      "Warren",
+      "Soft",
+      "Fast",
+      "Green",
+      "Garden"
+    ],
+    "ends": [
+      "bit",
+      "on",
+      "a",
+      "hop",
+      "ear",
+      "soft",
+      "fast",
+      "garden",
+      "bunny"
+    ]
+  },
+  "deer": {
+    "starts": [
+      "Deer",
+      "Sta",
+      "Red",
+      "Whit",
+      "Buck",
+      "Doe",
+      "Fawn",
+      "Antler",
+      "Forest",
+      "Wood",
+      "Grace",
+      "Lean"
+    ],
+    "ends": [
+      "r",
+      "on",
+      "a",
+      "ia",
+      "antler",
+      "forest",
+      "grace",
+      "lean",
+      "wood"
+    ]
+  },
+  "owl": {
+    "starts": [
+      "Owl",
+      "Wis",
+      "Hoot",
+      "Night",
+      "Fly",
+      "Silent",
+      "Wise",
+      "Bird",
+      "Feather",
+      "Look"
+    ],
+    "ends": [
+      "l",
+      "a",
+      "on",
+      "wise",
+      "hoot",
+      "night",
+      "fly",
+      "silent",
+      "bird"
+    ]
+  },
+  "hawk": {
+    "starts": [
+      "Hawk",
+      "Fal",
+      "Red",
+      "Sharp",
+      "Eye",
+      "Fly",
+      "Sky",
+      "Soar",
+      "Claw",
+      "Talon"
+    ],
+    "ends": [
+      "k",
+      "a",
+      "on",
+      "sharp",
+      "eye",
+      "fly",
+      "sky",
+      "claw",
+      "talons"
+    ]
+  },
+  "peacock": {
+    "starts": [
+      "Peac",
+      "Plume",
+      "Color",
+      "Bright",
+      "Show",
+      "Display",
+      "Feather",
+      "Blue",
+      "Green",
+      "Beauty"
+    ],
+    "ends": [
+      "ock",
+      "a",
+      "on",
+      "plume",
+      "color",
+      "bright",
+      "feather",
+      "blue",
+      "green"
+    ]
+  },
+  "parrot": {
+    "starts": [
+      "Par",
+      "Tou",
+      "Macaw",
+      "Rain",
+      "Color",
+      "Beak",
+      "Talk",
+      "Smart",
+      "Island",
+      "Tropical"
+    ],
+    "ends": [
+      "ot",
+      "a",
+      "on",
+      "beak",
+      "talk",
+      "smart",
+      "color",
+      "tropical"
+    ]
+  },
+  "turtle": {
+    "starts": [
+      "Tur",
+      "Shell",
+      "Sea",
+      "Land",
+      "Slow",
+      "Green",
+      "Box",
+      "Paint",
+      "Log",
+      "Water"
+    ],
+    "ends": [
+      "tle",
+      "a",
+      "on",
+      "shell",
+      "slow",
+      "water",
+      "land",
+      "green"
+    ]
+  },
+  "frog": {
+    "starts": [
+      "Frog",
+      "Leap",
+      "Jump",
+      "Green",
+      "Toad",
+      "Water",
+      "Pond",
+      "Hop",
+      "Croak",
+      "Slimy"
+    ],
+    "ends": [
+      "g",
+      "a",
+      "on",
+      "leap",
+      "jump",
+      "pond",
+      "hop",
+      "water"
+    ]
+  },
+  "snake": {
+    "starts": [
+      "Sna",
+      "Ser",
+      "Vi",
+      "Garter",
+      "Python",
+      "Boa",
+      "Coral",
+      "Milk",
+      "Water",
+      "Tree"
+    ],
+    "ends": [
+      "ke",
+      "a",
+      "on",
+      "ser",
+      "coil",
+      "slither",
+      "water"
+    ]
+  },
+  "octopus": {
+    "starts": [
+      "Oct",
+      "Ten",
+      "Tenta",
+      "Ocean",
+      "Sea",
+      "Smart",
+      "Ink",
+      "Squirt",
+      "Camo",
+      "Under"
+    ],
+    "ends": [
+      "pus",
+      "a",
+      "on",
+      "tentacle",
+      "ink",
+      "smart",
+      "ocean",
+      "sea"
+    ]
+  },
+  "jellyfish": {
+    "starts": [
+      "Jel",
+      "Bell",
+      "Float",
+      "Sea",
+      "Trans",
+      "Clear",
+      "Sting",
+      "Glow",
+      "Drift",
+      "Water"
+    ],
+    "ends": [
+      "fish",
+      "a",
+      "on",
+      "bell",
+      "float",
+      "sea",
+      "glow",
+      "water"
+    ]
+  },
+  "starfish": {
+    "starts": [
+      "Sta",
+      "Sea",
+      "Star",
+      "Sand",
+      "Ocean",
+      "Five",
+      "Arm",
+      "Regener",
+      "Shore",
+      "Tide"
+    ],
+    "ends": [
+      "fish",
+      "a",
+      "on",
+      "star",
+      "arm",
+      "sea",
+      "sand",
+      "shore"
+    ]
+  },
+  "bee": {
+    "starts": [
+      "Bee",
+      "Hum",
+      "Hone",
+      "Work",
+      "Busy",
+      "Flower",
+      "Poll",
+      "Queen",
+      "Drone",
+      "Colony"
+    ],
+    "ends": [
+      "e",
+      "a",
+      "on",
+      "hum",
+      "hive",
+      "worker",
+      "queen",
+      "flower"
+    ]
+  },
+  "butterfly": {
+    "starts": [
+      "But",
+      "Moth",
+      "Wing",
+      "Color",
+      "Flutter",
+      "Metamorph",
+      "Garden",
+      "Flower",
+      "Pretty",
+      "Small"
+    ],
+    "ends": [
+      "erfly",
+      "a",
+      "on",
+      "wing",
+      "flutter",
+      "color",
+      "garden",
+      "pretty"
+    ]
+  },
+  "ant": {
+    "starts": [
+      "Ant",
+      "Form",
+      "Worker",
+      "Army",
+      "Colony",
+      "Tiny",
+      "Small",
+      "Strong",
+      "Line",
+      "Trail"
+    ],
+    "ends": [
+      "t",
+      "a",
+      "on",
+      "worker",
+      "colony",
+      "tiny",
+      "small",
+      "strong"
+    ]
+  },
+  "spider": {
+    "starts": [
+      "Spi",
+      "Web",
+      "Eight",
+      "Leg",
+      "Weave",
+      "Trap",
+      "Hunt",
+      "Silk",
+      "Creep",
+      "Tiny"
+    ],
+    "ends": [
+      "der",
+      "a",
+      "on",
+      "web",
+      "eight",
+      "leg",
+      "silk",
+      "hunt"
+    ]
+  },
+  "crab": {
+    "starts": [
+      "Crab",
+      "Claw",
+      "Beach",
+      "Sand",
+      "Sea",
+      "Sideways",
+      "Walk",
+      "Shell",
+      "Ocean",
+      "Shore"
+    ],
+    "ends": [
+      "b",
+      "a",
+      "on",
+      "claw",
+      "beach",
+      "sand",
+      "sea",
+      "sideways"
+    ]
+  },
+  "lobster": {
+    "starts": [
+      "Lob",
+      "Claw",
+      "Sea",
+      "Ocean",
+      "Red",
+      "Cooked",
+      "Shell",
+      "Fresh",
+      "Catch",
+      "Trap"
+    ],
+    "ends": [
+      "ter",
+      "a",
+      "on",
+      "claw",
+      "sea",
+      "red",
+      "shell",
+      "ocean"
+    ]
+  },
+  "squid": {
+    "starts": [
+      "Squid",
+      "Ink",
+      "Tenta",
+      "Ocean",
+      "Sea",
+      "Deep",
+      "Jet",
+      "Propul",
+      "Smart"
+    ],
+    "ends": [
+      "id",
+      "a",
+      "on",
+      "ink",
+      "tentacle",
+      "ocean",
+      "sea",
+      "jet"
+    ]
+  },
+  "seal": {
+    "starts": [
+      "Seal",
+      "Flip",
+      "Beach",
+      "Water",
+      "Fish",
+      "Cold",
+      "Arctic",
+      "Polar",
+      "Play",
+      "Slide"
+    ],
+    "ends": [
+      "l",
+      "a",
+      "on",
+      "flipper",
+      "beach",
+      "water",
+      "cold",
+      "play"
+    ]
+  },
+  "otter": {
+    "starts": [
+      "Ot",
+      "Play",
+      "Water",
+      "River",
+      "Stream",
+      "Slip",
+      "Slide",
+      "Smooth",
+      "Fish",
+      "Fun"
+    ],
+    "ends": [
+      "er",
+      "a",
+      "on",
+      "play",
+      "water",
+      "river",
+      "slide",
+      "smooth"
+    ]
+  },
+  "koala": {
+    "starts": [
+      "Ko",
+      "Euca",
+      "Tree",
+      "Sleep",
+      "Lazy",
+      "Eucalypt",
+      "Austral",
+      "Bear",
+      "Pouch",
+      "Slow"
+    ],
+    "ends": [
+      "la",
+      "a",
+      "on",
+      "tree",
+      "sleep",
+      "lazy",
+      "slow",
+      "pouch"
+    ]
+  },
+  "penguin": {
+    "starts": [
+      "Peng",
+      "Antar",
+      "Ice",
+      "Snow",
+      "Black",
+      "White",
+      "Waddle",
+      "Swim",
+      "Cold",
+      "South"
+    ],
+    "ends": [
+      "uin",
+      "a",
+      "on",
+      "ice",
+      "snow",
+      "black",
+      "white",
+      "waddle"
+    ]
+  },
+  "horse": {
+    "starts": [
+      "Hor",
+      "Steed",
+      "Gallo",
+      "Swift",
+      "Racen",
+      "Palom",
+      "Dun",
+      "Bay",
+      "Roan",
+      "Chest",
+      "Must",
+      "Pony",
+      "Mare",
+      "Stall",
+      "Foal"
+    ],
+    "ends": [
+      "se",
+      "a",
+      "on",
+      "gallop",
+      "swift",
+      "ride",
+      "hoof",
+      "mane",
+      "pinto"
+    ]
+  },
+  "cow": {
+    "starts": [
+      "Cow",
+      "Mil",
+      "Herd",
+      "Bov",
+      "Cattle",
+      "Udder",
+      "Farm",
+      "Barn",
+      "Moo",
+      "Hay"
+    ],
+    "ends": [
+      "w",
+      "a",
+      "on",
+      "milk",
+      "herd",
+      "farm",
+      "barn",
+      "hay"
+    ]
+  },
+  "sheep": {
+    "starts": [
+      "Sheep",
+      "Fleece",
+      "Wool",
+      "Baa",
+      "Ram",
+      "Ewe",
+      "Lamb",
+      "Pasture",
+      "Shear",
+      "Field"
+    ],
+    "ends": [
+      "p",
+      "a",
+      "on",
+      "wool",
+      "fleece",
+      "pasture",
+      "lamb",
+      "field"
+    ]
+  },
+  "pig": {
+    "starts": [
+      "Pig",
+      "Pork",
+      "Hog",
+      "Swine",
+      "Snout",
+      "Mud",
+      "Pen",
+      "Farm",
+      "Oink",
+      "Pinky"
+    ],
+    "ends": [
+      "g",
+      "a",
+      "on",
+      "snout",
+      "mud",
+      "farm",
+      "oink",
+      "pen"
+    ]
+  },
+  "chicken": {
+    "starts": [
+      "Chick",
+      "Hen",
+      "Roost",
+      "Cluck",
+      "Feather",
+      "Egg",
+      "Coop",
+      "Farm",
+      "Comb",
+      "Wattle"
+    ],
+    "ends": [
+      "en",
+      "a",
+      "on",
+      "egg",
+      "coop",
+      "farm",
+      "feather",
+      "comb"
+    ]
+  },
+  "duck": {
+    "starts": [
+      "Duck",
+      "Quack",
+      "Drake",
+      "Duckling",
+      "Pond",
+      "Water",
+      "Float",
+      "Swim",
+      "Waddle",
+      "Down"
+    ],
+    "ends": [
+      "k",
+      "a",
+      "on",
+      "quack",
+      "pond",
+      "water",
+      "float",
+      "down"
+    ]
+  },
+  "goose": {
+    "starts": [
+      "Goose",
+      "Gander",
+      "Honk",
+      "Fly",
+      "Formation",
+      "V",
+      "Migration",
+      "Lake",
+      "Water",
+      "Swim"
+    ],
+    "ends": [
+      "e",
+      "a",
+      "on",
+      "honk",
+      "fly",
+      "lake",
+      "water",
+      "swim"
+    ]
+  },
+  "turkey": {
+    "starts": [
+      "Turkey",
+      "Gobb",
+      "Tom",
+      "Feather",
+      "Fan",
+      "Farm",
+      "Thanksgiving",
+      "Breast",
+      "Drumstick"
+    ],
+    "ends": [
+      "y",
+      "a",
+      "on",
+      "gobble",
+      "feather",
+      "fan",
+      "farm"
+    ]
+  },
+  "cat": {
+    "starts": [
+      "Cat",
+      "Kit",
+      "Fel",
+      "Purr",
+      "Meow",
+      "Kitten",
+      "Whisk",
+      "Claw",
+      "Paw",
+      "Soft",
+      "Cuddly"
+    ],
+    "ends": [
+      "t",
+      "a",
+      "on",
+      "purr",
+      "meow",
+      "whiskers",
+      "paw",
+      "soft"
+    ]
+  },
+  "dog": {
+    "starts": [
+      "Dog",
+      "Can",
+      "Pup",
+      "Bark",
+      "Woof",
+      "Puppy",
+      "Loyal",
+      "Friend",
+      "Pet",
+      "Home"
+    ],
+    "ends": [
+      "g",
+      "a",
+      "on",
+      "bark",
+      "loyal",
+      "friend",
+      "pet",
+      "home"
+    ]
+  },
+  "hamster": {
+    "starts": [
+      "Ham",
+      "Cheek",
+      "Pocket",
+      "Wheel",
+      "Small",
+      "Tiny",
+      "Cute",
+      "Pet",
+      "Nibble",
+      "Burrow"
+    ],
+    "ends": [
+      "ter",
+      "a",
+      "on",
+      "cheek",
+      "wheel",
+      "small",
+      "cute",
+      "pet"
+    ]
+  },
+  "guinea_pig": {
+    "starts": [
+      "Guin",
+      "Pig",
+      "Cavy",
+      "Whistle",
+      "Squeak",
+      "Pet",
+      "Small",
+      "Cute",
+      "House",
+      "Cage"
+    ],
+    "ends": [
+      "pig",
+      "a",
+      "on",
+      "whistle",
+      "squeak",
+      "pet",
+      "small",
+      "cute"
+    ]
+  },
+  "parakeet": {
+    "starts": [
+      "Para",
+      "Budgie",
+      "Chirp",
+      "Tweet",
+      "Green",
+      "Yellow",
+      "Blue",
+      "Cage",
+      "Flight",
+      "Small"
+    ],
+    "ends": [
+      "et",
+      "a",
+      "on",
+      "chirp",
+      "tweet",
+      "cage",
+      "flight",
+      "colorful"
+    ]
+  },
+  "goldfish": {
+    "starts": [
+      "Gold",
+      "Fish",
+      "Orange",
+      "Bowl",
+      "Tank",
+      "Swim",
+      "Bubble",
+      "Water",
+      "Small",
+      "Pet"
+    ],
+    "ends": [
+      "fish",
+      "a",
+      "on",
+      "orange",
+      "bowl",
+      "tank",
+      "swim",
+      "bubble"
+    ]
+  },
+  "octopus": {
+    "starts": [
+      "Oct",
+      "Tenta",
+      "Sea",
+      "Ocean",
+      "Deep",
+      "Ink",
+      "Eight",
+      "Smart",
+      "Change",
+      "Camou"
+    ],
+    "ends": [
+      "pus",
+      "a",
+      "on",
+      "tentacle",
+      "ocean",
+      "deep",
+      "ink",
+      "eight"
+    ]
+  },
+  "crocodile": {
+    "starts": [
+      "Croc",
+      "Croco",
+      "River",
+      "Swamp",
+      "Bite",
+      "Jaw",
+      "Teeth",
+      "Hide",
+      "Scale",
+      "Water",
+      "Lizard"
+    ],
+    "ends": [
+      "ile",
+      "a",
+      "on",
+      "bite",
+      "jaw",
+      "teeth",
+      "hide",
+      "scale",
+      "river"
+    ]
+  },
+  "alligator": {
+    "starts": [
+      "Alli",
+      "Gator",
+      "Florida",
+      "Swamp",
+      "River",
+      "Bite",
+      "Teeth",
+      "Water",
+      "Hide",
+      "Scale"
+    ],
+    "ends": [
+      "tor",
+      "a",
+      "on",
+      "bite",
+      "teeth",
+      "swamp",
+      "water",
+      "scale"
+    ]
+  },
+  "salmon": {
+    "starts": [
+      "Sal",
+      "Pink",
+      "River",
+      "Spawn",
+      "Jump",
+      "Upstream",
+      "Ocean",
+      "Sea",
+      "Fish",
+      "Swim"
+    ],
+    "ends": [
+      "mon",
+      "a",
+      "on",
+      "river",
+      "spawn",
+      "jump",
+      "ocean",
+      "swim"
+    ]
+  },
+  "trout": {
+    "starts": [
+      "Trout",
+      "Brook",
+      "Rainbow",
+      "Brown",
+      "Fish",
+      "River",
+      "Stream",
+      "Clean",
+      "Water",
+      "Catch"
+    ],
+    "ends": [
+      "t",
+      "a",
+      "on",
+      "brook",
+      "river",
+      "stream",
+      "catch",
+      "water"
+    ]
+  },
+  "catfish": {
+    "starts": [
+      "Cat",
+      "Fish",
+      "Whisk",
+      "Mud",
+      "Bottom",
+      "River",
+      "Catch",
+      "Fresh",
+      "Water",
+      "Scale"
+    ],
+    "ends": [
+      "fish",
+      "a",
+      "on",
+      "whisker",
+      "mud",
+      "bottom",
+      "river",
+      "fresh"
     ]
   }
 }
