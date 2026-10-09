@@ -4425,5 +4425,199 @@
       "river",
       "fresh"
     ]
-  }
+  },
+  "kingdom": {
+        "starts": [
+            "Ard", "Val", "Nor", "Sou", "East", "West", "North", "South",
+            "High", "Low", "New", "Old", "Great", "Little", "Fair", "Dark",
+            "Light", "Iron", "Gold", "Silver", "Bronze", "Copper", "Steel",
+            "Dragon", "Lion", "Eagle", "Wolf", "Bear", "Falcon", "Hawk",
+            "Star", "Sun", "Moon", "Dawn", "Dusk", "Twilight", "Shadow",
+            "Storm", "Thunder", "Lightning", "Wind", "Rain", "Snow", "Frost",
+            "Fire", "Flame", "Ember", "Ash", "Smoke", "Heat", "Burn",
+            "Rock", "Stone", "Cliff", "Mountain", "Hill", "Valley", "Vale",
+            "River", "Sea", "Ocean", "Lake", "Pond", "Stream", "Brook",
+            "Forest", "Wood", "Tree", "Leaf", "Bark", "Root", "Branch"
+        ],
+        "ends": [
+            "ia", "land", "mark", "hold", "gate", "port", "haven",
+            "rest", "reach", "guard", "keep", "fort", "wall",
+            "shire", "domain", "realm", "state", "zone", "region",
+            "territory", "province", "duchy", "barony", "earldom",
+            "lordship", "throne", "crown", "royal", "dynasty", "legacy"
+        ]
+    },
+    "country": {
+        "starts": [
+            "Aer", "Bal", "Cor", "Dal", "Ery", "Fen", "Gal", "Hal",
+            "Irn", "Jor", "Kal", "Lar", "Myn", "Nar", "Ost", "Pyr",
+            "Qua", "Ryn", "Sar", "Tol", "Ulv", "Vex", "Wor", "Xan",
+            "Yth", "Zyr", "Ael", "Bor", "Cor", "Din", "Eld", "Fay",
+            "Gyr", "Hyl", "Ild", "Jey", "Kor", "Lun", "Mir", "Nor",
+            "Ort", "Per", "Qor", "Ryl", "Ser", "Tan", "Ur", "Vay",
+            "Wen", "Xir", "Yen", "Zor"
+        ],
+        "ends": [
+            "ia", "on", "us", "ar", "or", "an", "en", "in", "un",
+            "at", "et", "ot", "it", "ut", "as", "es", "os", "is",
+            "um", "am", "em", "im", "om", "ax", "ex", "ix", "ox",
+            "ux", "ath", "eth", "ith", "oth", "uth", "ar", "er",
+            "ir", "or", "ur", "ya", "yo", "yu", "ny", "my", "ry", "ly"
+        ]
+    },
+    "world": {
+        "starts": [
+            "Earth", "Terra", "Gaia", "Planet", "Sphere", "Globe", "Orb",
+            "Universe", "Cosmos", "Galaxy", "Nebula", "Star", "System",
+            "Dimension", "Realm", "Plane", "Astral", "Material", "Etherial",
+            "Celestial", "Prime", "Parallel", "Alternate", "Virtual", "Digital",
+            "Aeth", "Vyron", "Xenor", "Zenth", "Kyros", "Nym", "Phael",
+            "Zorin", "Mira", "Veyra", "Thal", "Arun", "Solis", "Lunar"
+        ],
+        "ends": [
+            "a", "ia", "um", "on", "os", "is", "en", "an", "in", "un",
+            "sphere", "plane", "dimension", "realm", "domain", "territory",
+            "region", "zone", "sector", "quadrant", "cluster", "totality",
+            " nexus", "axis", "core", "center", "source", "origin", "beginning"
+        ]
+    },
+    "city": {
+        "starts": [
+            "New", "Old", "Grand", "Capital", "Metro", "Central", "Inner",
+            "Outer", "Upper", "Lower", "East", "West", "North", "South",
+            "Downtown", "Midtown", "Uptown", "Suburb", "Urban", "Industrial",
+            "Commer", "Trade", "Port", "Harbor", "Dock", "Wharf", "Bay",
+            "Arco", "Bel", "Cas", "Dor", "Ell", "Fen", "Ger", "Hor",
+            "Ill", "Jer", "Kir", "Lor", "Mor", "Nor", "Orr", "Por"
+        ],
+        "ends": [
+            "polis", "burg", "ton", "ville", "stad", "grad", "haven",
+            "port", "bay", "point", "isle", "island", "cape", "head",
+            "mouth", "ford", "bridge", "cross", "junction", "crossroads",
+            "center", "core", "heart", "hub", "nexus", "node", "station",
+            "ax", "ex", "ix", "ox", "yx"
+        ]
+    },
+    "village": {
+        "starts": [
+            "Small", "Tiny", "Quiet", "Peaceful", "Humble", "Modest", "Simple",
+            "Rustic", "Country", "Countryside", "Pastoral", "Agrarian", "Farming",
+            "Fishing", "Mining", "Logging", "Hunting", "Gathering", "Nomadic",
+            "Som", "Tyl", "Vern", "Wex", "Xan", "Yor", "Zim", "Ald",
+            "Bim", "Cam", "Dim", "Eld", "Fim", "Gul", "Hom", "Iln"
+        ],
+        "ends": [
+            "hamlet", "stead", "croft", "hatch", "wick", "wich", "thorpe",
+            "by", "ton", "ing", "ington", "field", "meadow", "grove",
+            "copse", "clearing", "glade", "settlement", "homestead",
+            "outpost", "encampment", "camp", "campground", "lodging", "inn",
+            "ax", "ox", "ix", "ex", "ux"
+        ]
+    },
+    "castle": {
+        "starts": [
+            "Iron", "Steel", "Stone", "Granite", "Marble", "Ivory", "Silver",
+            "Gold", "Bronze", "Copper", "Crystal", "Diamond", "Ruby", "Emerald",
+            "Sapphire", "Opal", "Pearl", "Amethyst", "Topaz", "Jade", "Onyx",
+            "Obsidian", "Black", "White", "Red", "Blue", "Green", "Yellow",
+            "Vex", "Zor", "Kael", "Thal", "Ryn", "Vay", "Mox", "Nex"
+        ],
+        "ends": [
+            "keep", "fortress", "citadel", "bastion", "stronghold", "fastness",
+            "redoubt", "bulwark", "rampart", "palisade", "wall", "tower",
+            "spire", "turret", "dungeon", "crypt", "vault", "treasury",
+            "armory", "barracks", "stable", "court", "hall", "chamber",
+            "throne", "crown", "scepter", "royalty", "monarchy", "dynasty"
+        ]
+    },
+    "tower": {
+        "starts": [
+            "High", "Tall", "Grand", "Mighty", "Strong", "Sturdy", "Solid",
+            "Steady", "Stable", "Enduring", "Lasting", "Everlasting", "Eternal",
+            "Timeless", "Ageless", "Ancient", "Old", "Modern", "Contemporary",
+            "Futuristic", "Advanced", "Progressive", "Innovative", "Revolutionary",
+            "Vex", "Zor", "Kael", "Thal", "Ryn", "Vay", "Mox", "Nex", "Jor", "Lyn"
+        ],
+        "ends": [
+            "tower", "spire", "steeple", "bell", "clock", "watch", "lookout",
+            "beacon", "lighthouse", "signal", "flag", "banner", "standard",
+            "crest", "emblem", "badge", "insignia", "coatOfArms", "heraldry",
+            "symbol", "sign", "mark", "token", "award", "medal"
+        ]
+    },
+    "mountain": {
+        "starts": [
+            "Mount", "Mont", "Peak", "Summit", "Crest", "Ridge", "Range",
+            "Chain", "Spur", "Horn", "Pike", "Pyramid", "Cone", "Volcano",
+            "Crater", "Vent", "Magma", "Lava", "Ash", "Smoke", "Steam",
+            "Fire", "Flame", "Heat", "Burn", "Scorch", "Char", "Burnt",
+            "Vex", "Zor", "Kael", "Thal", "Ryn", "Vay", "Mox", "Nex"
+        ],
+        "ends": [
+            "peak", "summit", "crest", "ridge", "range", "chain", "spur",
+            "horn", "pike", "pyramid", "cone", "volcano", "crater", "vent",
+            "magma", "lava", "ash", "smoke", "steam", "fire", "flame",
+            "heat", "burn", "scorch", "char", "burnt", "charred"
+        ]
+    },
+    "forest": {
+        "starts": [
+            "Deep", "Dark", "Enchanted", "Magical", "Mystic", "Mysterious",
+            "Secret", "Hidden", "Lost", "Forgotten", "Ancient", "Old", "Primeval",
+            "Primordial", "Original", "Native", "Indigenous", "Wild", "Untamed",
+            "Natural", "Organic", "Pure", "Clean", "Fresh", "Clear", "Vex",
+            "Zor", "Kael", "Thal", "Ryn", "Vay", "Mox", "Nex"
+        ],
+        "ends": [
+            "forest", "woods", "woodland", "timber", "grove", "copse", "thicket",
+            "bush", "brush", "underbrush", "undergrowth", "vegetation", "flora",
+            "fauna", "wildlife", "ecosystem", "habitat", "environment", "biosphere",
+            "nature", "natural", "organic", "pure", "clean", "fresh", "clear"
+        ]
+    },
+    "desert": {
+        "starts": [
+            "Sand", "Dune", "Oasis", "Dry", "Arid", "Barren", "Wasteland",
+            "Empty", "Vacant", "Void", "Null", "Zero", "None", "Nothing",
+            "Hollow", "Blank", "Plain", "Open", "Wide", "Vast", "Broad",
+            "Large", "Big", "Huge", "Massive", "Giant", "Colossal", "Vex",
+            "Zor", "Kael", "Thal", "Ryn", "Vay", "Mox", "Nex"
+        ],
+        "ends": [
+            "sand", "dune", "oasis", "dry", "arid", "barren", "wasteland",
+            "empty", "vacant", "void", "null", "zero", "none", "nothing",
+            "hollow", "blank", "plain", "open", "wide", "vast", "broad",
+            "large", "big", "huge", "massive", "giant", "colossal", "gigantic"
+        ]
+    },
+    "island": {
+        "starts": [
+            "Isle", "Island", "Atoll", "Reef", "Shoal", "Bank", "Slope",
+            "Platform", "Terrace", "Ridge", "Seamount", "Guyot", "Plateau",
+            "Continental", "Volcanic", "Coral", "Rocky", "Sandy", "Grassy",
+            "Forested", "Green", "Lush", "Verdant", "Fertile", "Rich", "Abundant",
+            "Vex", "Zor", "Kael", "Thal", "Ryn", "Vay", "Mox", "Nex"
+        ],
+        "ends": [
+            "isle", "island", "atoll", "reef", "shoal", "bank", "slope",
+            "platform", "terrace", "ridge", "seamount", "guyot", "plateau",
+            "continental", "volcanic", "coral", "rocky", "sandy", "grassy",
+            "forested", "green", "lush", "verdant", "fertile", "rich", "abundant"
+        ]
+    },
+    "river": {
+        "starts": [
+            "River", "Stream", "Brook", "Creek", "Rill", "Run", "Flow",
+            "Current", "Tide", "Surge", "Rush", "Rapids", "Cascade", "Waterfall",
+            "Fall", "Drop", "Leaps", "Plunge", "Dive", "Splash", "Spray", "Mist",
+            "Fog", "Dew", "Condensation", "Humidity", "Moisture", "Dampness",
+            "Vex", "Zor", "Kael", "Thal", "Ryn", "Vay", "Mox", "Nex"
+        ],
+        "ends": [
+            "river", "stream", "brook", "creek", "rill", "run", "flow",
+            "current", "tide", "surge", "rush", "rapids", "cascade", "waterfall",
+            "fall", "drop", "leaps", "plunge", "dive", "splash", "spray", "mist",
+            "fog", "dew", "condensation", "humidity", "moisture", "dampness"
+        ]
+    }
 }
