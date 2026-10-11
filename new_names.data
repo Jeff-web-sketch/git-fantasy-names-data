@@ -1,14 +1,1 @@
-[
-    "kingdom",
-    "country",
-    "world",
-    "city",
-    "village",
-    "castle",
-    "tower",
-    "mountain",
-    "forest",
-    "desert",
-    "island",
-    "river"
-]
+["kingdom", "country", "world", "city", "village", "castle", "tower", "mountain", "forest", "desert", "island", "river"]
